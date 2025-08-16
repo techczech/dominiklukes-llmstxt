@@ -26,7 +26,7 @@ import pathlib, json, hashlib, datetime, re, sys
 from rapidfuzz import fuzz
 import frontmatter
 
-REPO = pathlib.Path("/Users/dominiklukes/gitrepos/dominiklukes-llmstxt").resolve()
+REPO = pathlib.Path(".").resolve()
 CONTENT = REPO / "content"
 PLAIN = REPO / "plain"
 DATASET = REPO / "dataset"
