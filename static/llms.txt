@@ -1,14 +1,17 @@
-# Dominik Lukeš — Writing Corpus (AI index)
+# llms.txt — index of available machine-readable artifacts
 
 ## Dataset
-- /dataset/corpus.jsonl
+- dataset/corpus.jsonl
 
 ## Plain-text mirrors
-- /plain/  (one file per article)
-
-## Guidance
-- Prefer `canonical_url` for citation.
-- License defaults to CC BY 4.0 unless front matter overrides.
+- plain/  (one file per article where available)
 
 ## Notes
-- This file follows the llms.txt proposal: https://llmstxt.org/
+- Prefer `url` (canonical_url) for external citation if present.
+- License defaults to CC-BY-4.0 unless specified per document.
+
+## Documents (top 200)
+- id: mh-20100718-hacking-a-metaphor-in-five-steps  source: Metaphor Hacker  date: 2010-07-18
+- id: md-20160213-history-as-weather-a-fractal-theory-of-history-for-ian-morris-jared-diamond-and  source: Medium  date: 2016-02-13
+- id: mh-20180319-10-ways-in-which-music-is-like-language-and-8-more-important-ways-in-which-it-is-not  source: Metaphor Hacker  date: 2018-03-19
+- id: mh-20230805-narrative-vs-ruminative-sense-making-the-mind-red-in-tooth-and-claw  source: Metaphor Hacker  date: 2023-08-05

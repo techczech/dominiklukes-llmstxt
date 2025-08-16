@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fractals on Dominik Lukeš — Writing Corpus</title>
+    <link>http://localhost:1313/dominiklukes-llmstxt/tags/fractals/</link>
+    <description>Recent content in Fractals on Dominik Lukeš — Writing Corpus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/dominiklukes-llmstxt/tags/fractals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History as weather: A fractal theory of history for Ian Morris, Jared Diamond and CGP Grey</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2016/history-as-weather-a-fractal-theory-of-history-for-ian-morris-jared-diamond-and/</link>
+      <pubDate>Sat, 13 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2016/history-as-weather-a-fractal-theory-of-history-for-ian-morris-jared-diamond-and/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1024/1*5o_VsnRC1R-ZYXKYiAbnFw.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline-of-theargument&#34;&gt;Outline of the argument&lt;/h3&gt;&#xA;&lt;p&gt;History of often accused of not being sufficiently scientific. To remedy this people try to come up with all sorts of theories of history that try to look like science. They come up with some measurable variable (e.g. availability of domesticable species as Jared Diamond did or energy output as Ian Morris did or size of population, advancement of technology, size of armies, etc. as many others do). This, they hope, explains the past and predicts the future. Based on the theories, the would-be-scientist-historians build models that seem to make perfect sense but seemingly fall apart when overtaken by events. This makes history seem like it’s not at all scientific. But that’s only because we’re comparing it to the very rare instances in science where long-term perfect prediction is possible. Like the motions of planetary bodies or the behavior of a computer. But in most cases, science struggles with perfect prediction. In medicine, it’s impossible to predict the exact course a disease will take in any one individual, even though it is often possible to predict what course it will take over a thousand individuals. In biology, it is impossible to predict, which features will be selected over others through natural selection. But it is possible to predict that some will be. But the best analogy, to my mind, is the weather.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

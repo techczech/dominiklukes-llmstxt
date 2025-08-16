@@ -1,0 +1,67 @@
+name: Build Embeddings (FAISS)
+
+on:
+  workflow_run:
+    workflows: ["Import & Publish"]
+    types:
+      - completed
+  # fallback manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-embeddings
+  cancel-in-progress: true
+
+jobs:
+  embeddings:
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+    env:
+      REPO: ${{ github.workspace }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-emb-v1-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-emb-v1-
+
+      - name: Install embedding deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install --no-cache-dir openai tqdm ujson numpy faiss-cpu
+
+      - name: Build embeddings & FAISS index
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          set -e
+          python scripts/build_embeddings.py
+
+      - name: Show artifact sizes
+        run: |
+          ls -lah dataset || true
+
+      - name: Upload embeddings artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: embeddings-artifact
+          path: |
+            dataset/faiss.index
+            dataset/faiss_ids.json
+            dataset/embeddings.jsonl

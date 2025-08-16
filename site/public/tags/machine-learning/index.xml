@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-Learning on Dominik Lukeš — Writing Corpus</title>
+    <link>http://localhost:1313/dominiklukes-llmstxt/tags/machine-learning/</link>
+    <description>Recent content in Machine-Learning on Dominik Lukeš — Writing Corpus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/dominiklukes-llmstxt/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning vs training in machines and organizations: Production of knowledge vs production of…</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-pr/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-pr/</guid>
+      <description>&lt;h3 id=&#34;learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-production-of-capabilityexploration-of-metaphors&#34;&gt;Learning vs training in machines and organizations: Production of knowledge vs production of capability — Exploration of metaphors&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1024/1*EAv0CPYrJ99vgSIkp-jnJg.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;machine-learning-is-to-organizational-learningas&#34;&gt;Machine learning is to organizational learning as…&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://www.sbs.ox.ac.uk/school/events-0/david-upton-memorial-lecture&#34;&gt;recent lecture by Gary Pisano&lt;/a&gt; made the parallel between machine learning and organizational learning in the sense that they are both processes that produce knowledge. My immediate reaction was that they are not alike because machine learning is really a misnomer. Or rather machine learning has some aspects of learning but is dissimilar from prototypical learning in enough ways to make the analogy dangerous. But my second thought was that actually organizational learning and prototypical learning are dissimilar in the same ways that machine learning and prototypical learning are. We could then learn more about both if we look at the various mappings and mismappings (a sort of metaphor hack).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

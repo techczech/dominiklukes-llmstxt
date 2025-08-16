@@ -1,0 +1,99 @@
+---
+canonical_url: https://medium.com/@techczech/hardware-trends-of-the-2010s-part-2-of-tech-that-reshaped-our-lives-in-the-last-decade-15946e2c9cee?source=rss-5a5f69f6edac------2
+date: '2020-01-09'
+id: md-20200109-hardware-trends-of-the-2010s-part-2-of-tech-that-reshaped-our-lives-in-the-last
+language: en
+license: CC-BY-4.0
+original_format: html
+source:
+  name: Medium
+  url: https://medium.com/feed/@techczech
+tags:
+- innovation
+- retrospectives
+- trends
+- hardware
+- smartphones
+title: 'Hardware Trends of the 2010s: Part 2 of Tech That Reshaped our Lives in the
+  Last Decade'
+---
+
+This is part 2 of a [6-part series](https://medium.com/@techczech/technology-trends-that-reshaped-our-lives-in-the-2010s-10-years-in-10-000-words-f9be9dfdd22a). Read [Part 1 for Background](https://medium.com/@techczech/technology-trends-that-reshaped-our-lives-in-the-2010s-10-years-in-10-000-words-f9be9dfdd22a). Go to [Part 3 on Software trends](https://medium.com/@techczech/software-trends-of-the-2010s-part-3-of-tech-that-reshaped-our-lives-in-the-last-decade-3b824a6bb6e1?sk=a52f0c324777b424acb5de55ebbfd52c).
+
+When it comes to hardware, the last decade has brought some subtle but important changes to the sort of hardware we buy and use.
+
+![](https://cdn-images-1.medium.com/max/1024/0*Egj3RF6zZ4-N6Euy)
+
+Photo by [Alexandre Debiève](https://unsplash.com/@alexkixa?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+
+### Large-screen phones
+
+When Samsung introduced the first [Galaxy Note in 2011](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series), everybody thought they were crazy because the 5.3 inch screen looked massive. People even felt the need to invent a new term for this, a ‘phablet’. When I saw friend hold her Note to her ear, it looked so strange I had to [take a picture](https://www.instagram.com/p/Lq3SqpxKpQ/). When I look at it now, it looks perfectly normal.
+
+In fact, it could be hard to find a phone with a screen that small. Even the smallest iPhone of the latest generation has a screen of 6.1 inches. This changed not only what we can do on our phones: read books, watch films, write, etc. It also changed what we expect phones to look like. What a transformation from 2010 today.
+
+### Midrange phones
+
+When I bought my first smartphone, the [HTC Desire](https://en.wikipedia.org/wiki/HTC_Desire) in 2010, it was the top of the line Android phone available, at that time. A few years later, I upgraded to the Galaxy Note 2 which was also a flagship product. But ever since I bought the [OnePlus One](https://www.gsmarena.com/oneplus_one-6327.php) in 2015, I never felt the need to go for the top of the line. This is partly because flagship smartphone prices have trended up in the last 5 years but even more so, because the mid-range phones have become good enough for any normal need.
+
+Today, I’ve had the [OnePlus 5T](https://www.gsmarena.com/oneplus_5t-8912.php) for over 2 years and see no reason to upgrade. But if somebody asked me which phone to get today, I would say (and have said), that any Android point in the £200 range will be more than enough for them. [Moto G](https://www.gsmarena.com/motorola_moto_g-5831.php), [Xiaomi Note 8](https://www.gsmarena.com/xiaomi_redmi_note_8-9814.php), [Samsung Galaxy A50](https://www.gsmarena.com/samsung_galaxy_a50-9554.php) — any of these will be more than enough. In fact, I helped a friend buy the Galaxy A50 earlier this year and she could not be happier.
+
+### Phone cameras / Computational photography
+
+If the 2010s were a decade of anything, they were the decade of the smartphone camera. Mobile phones with cameras were certainly available before but it was the iPhone with its large screen and pinch to zoom that made the idea of taking pictures on the phone seem like something really useful. That seed planted in the late 00s blossomed into a beautiful flower. Very few people think about buying a camera for their travels now, and most so-called point-and-shoot cameras would now produce worse photos than even a mid-range phone. And while the phones don’t quite measure up to [DSLR](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera) quality that is true only in the hands of people who really know what they’re doing and in the eyes of people who know what to look for.
+
+This is both a hardware and a software change. The lenses and sensors in our phones have improved (and [multiplied](https://www.bustle.com/p/why-are-there-3-cameras-on-the-iphone-11-pro-here-are-the-reasons-for-the-multiple-lenses-18753256)) but not nearly as much as the software processing techniques. Aided by improvements in chip design, what is now called ‘[computational photography](https://en.wikipedia.org/wiki/Computational_photography)’ has advanced beyond any expectation we might have had in 2010. This is the one area where the top-of-the-line smartphones most significantly outperform the lower-priced ones. However, even a lower-level mid-range phone now produces better photos and videos than any consumer camera of 2010.
+
+All of this changed when a camera can be expected to be available and what it makes sense to take pictures of. From the seemingly trivial like taking pictures of one’s food to family pictures. Seeing people looking at the world through the screen of their phone while recording is now commonplace. Combined with the increased availability of data connections and photo-friendly platforms like Instagram and WhatsApp, people share their experiences with each other more visually. It is interesting to imagine what this will mean for the shapes of people’s lives in 20 or 30 years. There are about 20 photos of me between the ages of 1 and 20 that I could still find. My young nieces and nephews generate that many every week, sometimes every day. What will it be like to be able to look back at your entire life so thoroughly documented?
+
+Let’s not forget one more change this brought. When the decade started, it was still a bit strange seeing people taking photos without [holding a camera to their eye](https://photographylife.com/how-to-hold-a-camera). Camera phones completely changed what we expect a person taking a picture to look like. Even many higher-level dedicated cameras now don’t have a viewfinder and all offer a screen through which it is possible to shoot a photo at arm’s length.
+
+### Smart speakers
+
+When Amazon announced the first [Amazon Echo in 2015](https://www.cnet.com/news/amazon-echo-and-alexa-the-most-impressive-new-technology-of-2015/), the tech press was more than sceptical. Who would ever want sometime like this in their house? Who would ever try to use a device where the only way to control it was by voice? These were some of the questions commonly raised about it. But almost nobody who tried it was disappointed and by 2016, when the Echo finally became available in the UK, I bought it immediately without any hesitation. And when Google introduced the [Home](https://store.google.com/product/google_home) series, I switched to that to integrate all my data. Now I have a smart speaker of some sort in every room of my house — sometimes more. I tell them what music to play for me, to remind me to do things, put things on my shopping or packing list, to set timers, alarms and faders, to turn the lights on and off, and read me the news. More recently, these devices are also available with displays, and the [Lenovo Smart Display](https://www.lenovo.com/us/en/smart-display) has truly improved my life by showing me digital photos I’ve taken over the last 15 years.
+
+Not everybody has or wants one of these devices but Alexa and Siri are now household names, and Ok Google is a common phrase. The idea of speaking to a machine and having it mostly understand what I say that seemed so unrealistic in 2010 is now a reality. And what can be more transformational than that?
+
+### Smartwatches and fitness trackers
+
+Another class of products that transformed what we can expect from the world around us is the fitness tracker. Tracking steps and much more is now a standard part of many people’s lives. The first [Fitbit](https://en.wikipedia.org/wiki/Fitbit) was released in 2009 but it wasn’t until trackers could double as watches and finally watches as trackers that the category became ubiquitous. Apple came late to the party in 2015 with the [Apple Watch](https://www.apple.com/watch/) but by then I’d already been wearing a smartwatch (first the [Pebble](https://en.wikipedia.org/wiki/Pebble_(watch)) and then an [Android Wear](https://en.wikipedia.org/wiki/Wear_OS) watch) for 2 years. Until 2012 when the Pebble was released, I had not worn anything on my wrist for almost 2 decades. Now, I wear a smartwatch all the time and almost everyone in my family who doesn’t have a smartwatch wears a fitness tracker that tells time, as well. Knowing how active you are is handy, but I find the notifications to be the most useful. Being able to tell time is almost secondary.
+
+It is true, smartwatches have not lived up to all of their [promise](https://www.engadget.com/2018/09/14/apple-watch-series-4-fda-google-wear-os-smartwatch-health/?guccounter=1) and the whole [wearable tech](https://en.wikipedia.org/wiki/Wearable_technology) category is more than a little anemic but they now have a clear place in the world’s mindshare which earns them a place on this list in my blog.
+
+### Other smaller hardware trends
+
+There are other hardware trends that may not be as prominent but that have still had an impact on the way we live our lives.
+
+#### Touch interfaces
+
+The introduction of the iPhone in 2007 ushered a new paradigm for thinking about how to interact by touch. The 2010s have truly brought this new trend to fruition. From the iPad, to touch-supported and 2-in-1 laptops. As capacitive display technology is getting cheaper at larger sizes, we now see more and more displays around us that can be touched with the expectation that they will actually perform the intended action. And most importantly, thanks to the smartphone revolution, gestures on the screen have become part of our inventory of [affordances](https://www.interaction-design.org/literature/topics/affordances).
+
+#### Ubiquitous data / WiFi everywhere
+
+Having a WiFi or a fast phone data signal pretty much anywhere in the world has become a reliable expectation. Sure, there are still dead spots, and rural broadband is still an issue in many parts of the world, but gone are the days when you could expect to be truly offline for extended periods of time without some alternative. I travelled through South East Asia in 2016 and even in the middle of Borneo, there was signal of some sort to be had. True, further inland that wasn’t always the case, but being able to buy a cheap SIM card with an affordable data plan truly transformed the experience of travel — for instance, just getting on a local bus and following my journey on Google Maps and thus being able to be more adventurous. And even when mobile data is not available, there is always somewhere with WiFi. It is easy to forget that for much of the 2000s that was not the case. My first 2 laptops did not even have WiFi as standard and now almost no laptop is even shipped with an ethernet port.
+
+#### USB charging
+
+Another momentous change of the 2010s is the complete standardisation of powering small electronic devices via USB. So many devices now only come with a USB cable that can be plugged in almost anywhere rather than with a bulky proprietary charger. There is still some variation but (partly thanks to the [EU directive](https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2018-6427186/feedback/F18110_en?p_id=342389) requiring phone manufacturers to use a standard) things are so much simpler in 2019 than they were in 2009. If only [wireless charging](https://en.wikipedia.org/wiki/Inductive_charging) could now get good enough to make a real difference to deserve a place on this list.
+
+#### Contactless payments
+
+There are many innovations to which the initial reaction is ‘How hard is it to do it the old way? Have we really become so lazy that …?’, etc. I remember wondering this about the scroll wheel on the mouse — and now not having one available would make me go insane. I heard many of the same reactions to the introduction of contactless payments. ‘How hard is it to insert a card and type in the pin?’ Not hard. But sometimes removing small friction points has a significant impact. Things got even more seamless with the introduction of [Android Pay](https://pay.google.com/about/) (now Google Pay) and [Apple Pay](https://www.apple.com/apple-pay/). Sure, touching the phone to a terminal is no more laborious than touching a card, but the phone is always more to hand than my wallet. I would never buy a phone that did not support payments.
+
+The impact of this change on quality of life was underscored during a recent visit to the US where contactless payments are only available sporadically. Of course, I also spent significant amounts of time in the 2010s in countries where even card payments are the exception and my life was not ruined. But contactless payments have certainly changed the way people frame the world. Not too long ago, asking to pay with a phone required an explanation, now holding up a phone at the till is a recognised gesture.
+
+#### Longevity of desktops and laptops
+
+I bought my current desktop computer in 2009, since then I’ve added RAM and a bigger faster hard-drive but I have no need or plan to upgrade. It is still more than sufficient for most of my tasks. I bought my previous desktop computer in 2006 and by 2009, it could no longer cope with my needs. My current laptop was bought in 2016 and I foresee it being sufficient for another 2 years. But I have relatives who are still happily using laptops more than 8 years old. The one limiting factor on the lifetime of portable devices is the battery which can only be recharged so many times.
+
+This is partly because raw [processor speed growth](https://en.wikipedia.org/wiki/Moore%27s_law) has slowed down but mostly because the demands of software have stopped growing. Prior to Windows 7, every operating system upgrade pretty much required a hardware upgrade, too. But if anything operating system require less power now than before. Professionals in different areas and gamers still want to eke out every bit of performance out of the latest system but even for them the upgrades don’t come as fast as they used to.
+
+#### Drones
+
+Aerial photography within reach of anybody? Drones are now [cheap enough and easy enough to use](https://www.youtube.com/watch?v=mUR8O-o3A1c), that we need to think about how to regulate them. DJI, in particular, has been a leader in this field and their latest [Mavic Mini](https://www.dji.com/mavic-mini) is certainly on my wishlist. I don’t have a drone now but boy do I want one. It’s not for everyone but the their use has gone beyond potential.
+
+#### Raspberry Pi, Arduino and others
+
+Building your own computer was always niche and expensive. But the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) introduced in 2012 made it possible to build a computer into anything very cheaply. Add to it [many modular sensor boards](https://en.wikipedia.org/wiki/Arduino), experimenting with hardware became a possibility. This is not a something that would be at the top of a list of popularly transformative changes — but it certainly reshaped the world of the possible for hobbyists.
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=15946e2c9cee)

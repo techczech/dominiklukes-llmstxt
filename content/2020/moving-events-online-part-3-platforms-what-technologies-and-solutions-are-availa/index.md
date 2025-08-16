@@ -1,0 +1,123 @@
+---
+canonical_url: https://medium.com/techczech/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-available-fd8e2b05b7f0?source=rss-5a5f69f6edac------2
+date: '2020-04-19'
+id: md-20200419-moving-events-online-part-3-platforms-what-technologies-and-solutions-are-availa
+language: en
+license: CC-BY-4.0
+original_format: html
+source:
+  name: Medium
+  url: https://medium.com/feed/@techczech
+tags:
+- affordance
+- edtech
+- review
+- online-event
+- education
+title: 'Moving Events Online Part 3: Platforms: What technologies and solutions are
+  available?'
+---
+
+This is Part 3 of a three-part series. Table of contents:<[**Introduction**](https://medium.com/techczech/moving-events-online-platforms-strategies-and-challenges-97464cdc0f2a?sk=9e4809ee02ae5d51c7538f82abcc29b0)> <[**Part 1: Challenges**](https://medium.com/techczech/moving-events-online-part-1-challenges-why-are-not-more-events-taking-place-online-a1b94533649c?sk=cd797ca3ef7c092c2a2bbaafcff09e4c)> <[**Part 2: Strategies**](https://medium.com/techczech/moving-events-online-part-2-strategies-what-can-we-learn-from-successful-online-events-8ae2dbf40703?sk=632297047eef8329e3b5d74db3cc832d)> <[**Part 3: Platforms**](https://medium.com/techczech/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-available-fd8e2b05b7f0?sk=1f407def5e8e509cdcb7f3272fb59c07)>
+
+![](https://cdn-images-1.medium.com/max/1024/0*8J1VMeAj7_jL_oV-)
+
+Photo by [Gabriel Benois](https://unsplash.com/@gabrielbenois?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+
+There are essentially two kinds of platforms that can be considered for running live synchronous events.
+
+1. **Point-to-point platforms** that are used primarily for organising one off webinars or meetings (such as Zoom, GoToWebinar, Big Blue Button and more)
+2. **Integrated event platforms** that facilitate the entire event from registration to communication to connecting participants live.
+
+### Affordances of Point-to-point platforms
+
+The point-to-point platforms are well-established and well-understood. Most people in the education or corporate sectors have either participated in an online meeting run on one of these platforms or at least have some mental model of what it is about. At the very least, they can fall back on analogies, “it’s like a Skype call or Facetime”. Many more people will have also participated in webinars or watched recordings or them which is what these platforms are for.
+
+People will also have schemas and scripts around the basic requirements such as microphone and webcam. Although, these will not necessarily extend to knowing whether these are available on their device. But most people will be able to trigger intents such as muting/unmuting or using the chat. The scenario of noise coming from too many participants is a particularly familiar one.
+
+Most participants will also have some sort of mental schema of what is required to join one of these events. It usually involves some meeting ID or link, occasionally a password. Generally, the process of joining involves opening an email or calendar invitation with these details and following the instructions.
+
+Organisers of these events also have established routines on which they can fall back. Because these platforms are so well established, they have generally mastered the basics of the event scheduling interface that combined with a user’s basic mental model of what this event involves, it feels fairly intuitive and requires minimal instruction.
+
+But we also need to take into account the business models of the point-to-point platforms. They are conceived and sold as products where one paid users runs one session at a time during which they are present — this could be a meeting or a webinar. But this breaks the event model of a multi-room space. For instance, an institution may have assigned Zoom accounts to a number of individuals but for the running of an online events, Zoom accounts would either have to be temporarily purchased or existing user accounts would have to be tied up.
+
+### Zoom and the rest: Meeting and webinar platforms
+
+From a world where there were once “the big three”: Webex, Gotomeeting and Adobe Connect, we now live in a world of tens of providers. Given that the underlying technology of video conferencing is now basically commoditised, the basic meeting experience will be fairly similar and reliable. People can reasonably expect basic reliability and a minimum of features. I have used all of the big three as an organiser and participant of meetings and webinars. And while there are differences, the basics are essentially the same.
+
+However, recently Zoom has emerged as the platform that is increasingly far ahead of the pack. With what seems a singular focus on improvement and features that focus on the whole experience of organising and attending events, it seems not only have the features but also the reputation. This may be because unlike the ‘big three’, Zoom is a business with just one product whereas all the others are just divisions of organisations with an extensive product portfolio.
+
+As always, there are many other players in the space nipping at the heels of the big guys. They all have a place and seem to be able to attract customers. Some that come to mind because I’ve seen people using them are Blue Jeans and BigMarker. But this article on 10 platforms to use during COVID-19 crisis <https://www.ventureharbour.com/webinar-software-10-best-webinar-platforms-compared/> lists many I’ve never even heard of.
+
+### Skype, Teams, Google Hangouts, Facetime: Meeting platforms
+
+The platforms that perhaps did the most for bringing the idea of online meetings to public awareness were Skype and Facetime. Skype because of its venerable origins and Facetime (very much a latecomer) because of the high profile of Apple’s ecosystem. Skyping and Facetiming have become part of the common vocabulary.
+
+While they are not really viable platforms for online events, they are important consider because they provide important mental schemas (both positive and negative) for potential participants. Also, they have slowly been expanding their feature set so that they are increasingly overlapping with meeting and webinar platforms.
+
+In particular, Microsoft Teams (slated to replace Skype for Business) is being positioned as an education and meeting platform. And it is possible that it will soon become a viable player and it is already a usable option within institutions that are within Microsoft Office 365 the ecosystem. However, the feature set and ease of use is not there, yet, to make it a viable candidate for online events.
+
+Google Hangouts is in a similar position. It is an established and reliable platform but it would be a viable online event platform only within institutions who use the Google Suite.
+
+Jitsi is an open source player of some note in this space and could possibly be used for this purpose. An organisation can run their own server and individuals can use the free [https://meet.jit.si](https://meet.jit.si/) backed by the commercial player 8x8.
+
+### Smaller players focusing on education: BBB, Bb Collaborate
+
+There are many smaller players focusing on the education market. Blackboard Collaborate (formerly Illuminate) is perhaps the most venerable of them all. It is still used by many universities around the world but probably not a platform to choose for those entering the market. Compared to Zoom, it just does not have all the features — most notably limit on video from participants. However, it has been successfully used for several years by the Association for Learning Technology to run their winter online conferences.
+
+One last platform worth noting is Big Blue Button which has the distinction of being open source and therefore allowing self-hosting. It is also integrated with the Canvas LMS which means it has a wider reach than might otherwise be the case. It is definitely good enough for single virtual classes and has some best-in-class features but perhaps not something to look for for a large-scale event.
+
+There are many more smaller players and platforms but I would personally not recommend going too far afield. Perhaps one of them is the future Zoom — who also came out of nowhere in the last few years — but usually, they just can’t compete on actually useful features or quality.
+
+### Integrated virtual event platforms
+
+Integrated event platforms are trying to replicate some of the affordances of physical space for the participants. People choosing them have at least two decisions to make:
+
+1. Should the integrated platform provide virtual representation of the physical space — be this in 2D or 3D form or should it just be an integrated website?
+2. Should the integrated platform simply incorporate an existing point-to-point solution or provide its own video conferencing environment?
+
+Because the platforms are so new and none have become established, we know much less about which combination of the decisions is best. Unfortunately, we have some conflicting principles of design to contend with when making a decision.
+
+At first glance, it would appear that a platform that replicates the physical environment with a fully integrated native video conferencing platform would be best. This combination would create a unified experience for event attendees by replicating their mental models of events and not requiring abrupt changes in interface as they join individual meetings and sessions.
+
+But those assumptions run into the roadblock of overall user experience principles. Creating a 2D or 3D representation of a physical space breaks users’ existing models of how web-pages work. They may present a seemingly intuitive environment but since the interaction is still primarily mediated by the mouse, users also need to be able to know where to click. This requires very close attention to user experience on the part of the platform designers and may present impossible dilemmas. Particularly, when it comes to 3D, the ability of users to navigate a 3D space cannot be taken for granted. The event would essentially be placed in a video-game environment and this will exclude many users. Second Life was an example of a very promising 3D space for learning but ultimately failed because of the interaction barriers to entry for many users.
+
+Ultimately, an integrated platform that relies on more established mental models of web navigation with close attention to providing relevant and timely information may be more successful. Possibly, there could be a middle ground where some skeuomorphic graphical elements could be applied to the interface without breaking the underlying model of a website. It is possible that a new platform replicating the physical environment may be successful despite all of these issues, but event organisers should be very cautious about how they onboard users.
+
+The same considerations apply to the question of whether organisers should choose a platform with its own integrated video conferencing or one that simply provides an interface for embedding an existing point-to-point platform such as Zoom.
+
+An integrated video conferencing has some obvious advantages. First, it does not require that the organisers have multiple subscriptions. Second, it allows the provider to further unify the look and feel of the environment and to think more deeply about the affordances of space. For instance, it can introduce the concept of neighbours or give visual indicators of whether a room is occupied or not.
+
+However, this has its own limitations. First, while the core technology for video conferencing has become commoditised (mostly thanks to the introduction of WebRTC), developing the wealth of features an established platform like Zoom has is a massive undertaking. A new product may introduce a feature or interface innovation that is better than what Zoom or Big Blue Button offer (for which there is ample room), but they may do that at the expense of other features.
+
+Since any such integrated platform is most likely relying on WebRTC, it will be limited to which browsers it runs in and may not have a very good mobile experience. For instance, it may not be accessible via an iPad or it may not have a phone bridge.
+
+This integrated platform will also not be able to drawas much on the wealth of experience potential attendees have with established point-to-point platforms. This may not be much of a hindrance where the feature set is limited and the UX design builds on exiting models. But it should be taken into account.
+
+### Integrated platform (p)reviews
+
+I was able to identify six integrated event platforms on the market today. While, so far, every single platform, I’ve mentioned, I’ve also used either as a participant, organiser or attendee (and most often all), I don’t have any personal experiences with any of these products, nor do I have access to an extensive body of user testimonials outside those provided by the platforms. All I can base my assessment on is a review of their documentation and perhaps a brief trial where possible.
+
+The two event platforms that attracted me the most were HeySummit and vFairs because they would allow me to integrate Zoom and other existing video providers. However, they differ in their approach to replicating the space.
+
+**HeySummit** very firmly builds on the website conceptual model but integrates all aspects of user and speaker management and support. This makes it much easier to get started with an event. It supports both synchronous and asynchronous events. One such event was [Uppercase](https://missinglettr.com/uppercase/) that is available to join but for a fee. It works with several webinar providers but their Zoom integration is a big disappointment because it only supports webinars. These don’t provide nearly the level of interaction as Zoom meetings for smaller events. Also, Zoom webinars are significantly more expensive. On the other hand, each host can have a different webinar provider. But each session can also have a link which could be pointing to a Zoom meeting — but any integration would be lost and HeySummit would just become an event website. Interestingly, one of the webinar providers is Remo (see below).
+
+**vFairs**, on the other hand, replicates the 3D environment and is aimed more at emulating a fair such as a University Open day or a Trade show. It also provides all the other speaker and attendee management features. While it allows the creation of visually appealing 3D spaces including virtual lobby and virtual booths, it is not clear what the actual user experience will be like. **Ubivent** takes a similar approach to vFairs but seems to be a less polished product and does not list its features in detail.
+
+The final three platforms, Remo, GoBrunch and Hopin all have something of interest. But I’m not sure how much I would want to rely on their own video conferencing. Particularly those relying on WebRTC which limits the ways in which people can connect.
+
+**Remo** is very interesting because it replicates well the experience of having a number of a tables one could join for small discussions. It would work well for networking events, unconference style events (with very small groups) or small vendor booths. Participants see a list of tables with indicators of who is sitting there and whether they can join. But it does not look like it would work well for a more traditional type of conference with speakers and sessions. As I mentioned , it can be integrated as the video provider in a Heysummit event which would make it possible to add a networking experience to a more traditional event.
+
+**GoBrunch** is puzzlingly free for events up to 500 people. It offers ability to create rooms with different layouts in 2D where participants can take seats in a place — it includes a layout similar to Remo but also many more including a lecture theatre. But other than that, it’s not clear how the participants interact. Ultimately, it seems that the graphical interface would just get in the way. It is an interesting proof of concept but it’s not even clear that it works.
+
+**Hopin** is a new platform that is still in preview but I know a few events are testing it now. Unlike Remo or GoBrunch, it does not make any attempt to visually represent the conference space but it focuses more on directing attendees to the right place. The major limitation is that it only supports the latest browsers and may have limited mobile accessibility. This is a problem shared by all WebRTC platforms.
+
+In summary, I am not fully convinced that any of these integrated platforms have come up with a solution to the affordance challenges I outlined in the first part. If we look at the recommendations and strategies section, many of those could be solved by good design of a website. But all of my observations and impressions are based on either a scan of the provider website or a brief play with a test account where available. So it is possible that there are hidden strengths (or weaknesses) that would only come through when running an actual event.
+
+[**Part 2: Strategies**](https://medium.com/techczech/moving-events-online-part-2-strategies-what-can-we-learn-from-successful-online-events-8ae2dbf40703?sk=632297047eef8329e3b5d74db3cc832d)<<Previous |
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=fd8e2b05b7f0)
+
+---
+
+[Moving Events Online Part 3: Platforms: What technologies and solutions are available?](https://medium.com/techczech/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-available-fd8e2b05b7f0) was originally published in [TechCzech](https://medium.com/techczech) on Medium, where people are continuing the conversation by highlighting and responding to this story.

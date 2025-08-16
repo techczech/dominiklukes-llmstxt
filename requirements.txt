@@ -1,0 +1,8 @@
+feedparser>=6.0
+trafilatura>=1.6
+markdownify>=0.9
+python-frontmatter>=0.6
+python-slugify>=8.0
+rapidfuzz>=2.14
+requests>=2.31
+jq>=1.6

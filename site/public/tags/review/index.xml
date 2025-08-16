@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review on Dominik Lukeš — Writing Corpus</title>
+    <link>http://localhost:1313/dominiklukes-llmstxt/tags/review/</link>
+    <description>Recent content in Review on Dominik Lukeš — Writing Corpus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/dominiklukes-llmstxt/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving Events Online Part 3: Platforms: What technologies and solutions are available?</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2020/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-availa/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2020/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-availa/</guid>
+      <description>&lt;p&gt;This is Part 3 of a three-part series. Table of contents:&amp;lt;&lt;a href=&#34;https://medium.com/techczech/moving-events-online-platforms-strategies-and-challenges-97464cdc0f2a?sk=9e4809ee02ae5d51c7538f82abcc29b0&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/a&gt;&amp;gt; &amp;lt;&lt;a href=&#34;https://medium.com/techczech/moving-events-online-part-1-challenges-why-are-not-more-events-taking-place-online-a1b94533649c?sk=cd797ca3ef7c092c2a2bbaafcff09e4c&#34;&gt;&lt;strong&gt;Part 1: Challenges&lt;/strong&gt;&lt;/a&gt;&amp;gt; &amp;lt;&lt;a href=&#34;https://medium.com/techczech/moving-events-online-part-2-strategies-what-can-we-learn-from-successful-online-events-8ae2dbf40703?sk=632297047eef8329e3b5d74db3cc832d&#34;&gt;&lt;strong&gt;Part 2: Strategies&lt;/strong&gt;&lt;/a&gt;&amp;gt; &amp;lt;&lt;a href=&#34;https://medium.com/techczech/moving-events-online-part-3-platforms-what-technologies-and-solutions-are-available-fd8e2b05b7f0?sk=1f407def5e8e509cdcb7f3272fb59c07&#34;&gt;&lt;strong&gt;Part 3: Platforms&lt;/strong&gt;&lt;/a&gt;&amp;gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1024/0*8J1VMeAj7_jL_oV-&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@gabrielbenois?utm_source=medium&amp;amp;utm_medium=referral&#34;&gt;Gabriel Benois&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com?utm_source=medium&amp;amp;utm_medium=referral&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;There are essentially two kinds of platforms that can be considered for running live synchronous events.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Point-to-point platforms&lt;/strong&gt; that are used primarily for organising one off webinars or meetings (such as Zoom, GoToWebinar, Big Blue Button and more)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integrated event platforms&lt;/strong&gt; that facilitate the entire event from registration to communication to connecting participants live.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;affordances-of-point-to-point-platforms&#34;&gt;Affordances of Point-to-point platforms&lt;/h3&gt;&#xA;&lt;p&gt;The point-to-point platforms are well-established and well-understood. Most people in the education or corporate sectors have either participated in an online meeting run on one of these platforms or at least have some mental model of what it is about. At the very least, they can fall back on analogies, “it’s like a Skype call or Facetime”. Many more people will have also participated in webinars or watched recordings or them which is what these platforms are for.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

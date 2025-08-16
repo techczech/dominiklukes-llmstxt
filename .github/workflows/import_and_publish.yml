@@ -1,0 +1,106 @@
+name: Import & Publish
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 2 * * *"   # nightly 02:00 UTC — adjust if you want Europe/Prague
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: import-and-publish
+  cancel-in-progress: true
+
+jobs:
+  import_normalize_build:
+    runs-on: ubuntu-latest
+    env:
+      REPO: ${{ github.workspace }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-v1-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-v1-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt || true
+          # Ensure runtime deps used by importers and normalizer
+          pip install feedparser trafilatura markdownify python-frontmatter python-slugify rapidfuzz requests
+
+      - name: Setup Node (for Notion exporter & pagefind)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Node tools
+        run: |
+          npm ci --omit=dev || true
+          npm install @notionhq/client notion-to-md pagefind
+
+      - name: Run importers
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_IDS: ${{ secrets.NOTION_PAGE_IDS }}
+        run: |
+          set -e
+          python scripts/import_wordpress.py || true
+          python scripts/import_medium.py || true
+          python scripts/import_substack.py || true
+          node scripts/notion_export.mjs || true
+
+      - name: Normalize & build dataset (atomic write)
+        run: |
+          python scripts/normalize_and_build_dataset.py
+
+      - name: Sanity check dataset
+        id: sanity
+        run: |
+          MANIFEST_N=$(jq -r .n_documents dataset/manifest.json)
+          LINES=$(wc -l < dataset/corpus.jsonl || echo 0)
+          echo "manifest=$MANIFEST_N lines=$LINES"
+          if [ "$LINES" -lt "$MANIFEST_N" ]; then
+            echo "ERROR: Dataset line count ($LINES) < manifest ($MANIFEST_N) — failing workflow"
+            exit 1
+          fi
+
+      - name: Build Hugo site
+        run: |
+          # Ensure Hugo is available via action
+          npm i -g hugo-bin || true
+          hugo --minify --config site/hugo.toml --source site --destination site/public
+
+      - name: Generate Pagefind index
+        run: |
+          npx pagefind --site site/public
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    needs: import_normalize_build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
