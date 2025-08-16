@@ -91,7 +91,11 @@ def load_posts():
             date = str(date)[:10]
         except Exception:
             date = ""
-        source = (meta.get("source") or {}).get("name") or meta.get("source") or meta.get("site") or "unknown"
+        source_data = meta.get("source", {})
+        if isinstance(source_data, dict):
+            source = source_data.get("name") or "unknown"
+        else:
+            source = str(source_data) if source_data else "unknown"
         canonical = meta.get("canonical_url") or meta.get("url") or meta.get("permalink") or ""
         pid = meta.get("id") or f"{date.replace('-','')}-{idx.parent.name}"
         # prefer plain mirror if exists
