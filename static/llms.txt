@@ -1,0 +1,14 @@
+# Dominik Lukeš — Writing Corpus (AI index)
+
+## Dataset
+- /dataset/corpus.jsonl
+
+## Plain-text mirrors
+- /plain/  (one file per article)
+
+## Guidance
+- Prefer `canonical_url` for citation.
+- License defaults to CC BY 4.0 unless front matter overrides.
+
+## Notes
+- This file follows the llms.txt proposal: https://llmstxt.org/

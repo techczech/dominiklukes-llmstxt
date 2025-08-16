@@ -1,0 +1,64 @@
+---
+title: "What is not a metaphor: Modelling the world through language, thought, science, or action"
+date: 2014-03-04
+author: Dominik Lukeš
+source: https://metaphorhacker.net/2014/03/what-is-not-a-metaphor-modelling-the-world-through-language-thought-science-or-action
+---
+
+The role of metaphor in science debate (Background)
+---------------------------------------------------
+
+Recently, the [LSE podcast an interesting panel on the subject of “Metaphors and Science”](http://www.lse.ac.uk/newsAndMedia/videoAndAudio/channels/publicLecturesAndEvents/player.aspx?id=2289). It featured three speakers talking about the interface between metaphor and various ‘scientific’ disciplines (economics, physics and surgery). Unlike many such occasions, all speakers were actually very knowledgeable and thoughtful on the subject.
+
+In particular, I liked Felicity Mellor and [Richard Bronk](http://www.lse.ac.uk/researchAndexpertise/experts/profile.aspx?KeyValue=r.bronk%40lse.ac.uk) who adopted the same perspective that underlies this blog and which I most recently articulated in [writing about obliging metaphors](http://metaphorhacker.net/2013/10/pervasiveness-of-oblidging-metaphors-in-thought-and-deed). [Felicity Mellor](http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=f.mellor&_adf.ctrl-state=g30lcwtcs_3&_afrRedirect=1604205418236000) put it especially eloquently when she said:
+
+> “Metaphor allows us to speak the truth by saying something that is wrong. That means **it can be creatively liberating but it can also be surreptitiously coercive**.”
+
+This dual nature of coerciveness and liberation was echoed throughout the discussion by all three speakers. But they also shared the view of ubiquity of metaphor which is what this post is about.
+
+What is not a metaphor? The question!
+-------------------------------------
+
+The [moderator of the discussion](https://twitter.com/bnglaser) was much more stereotypically ambivalent about such expansive attitude toward metaphor and challenged the speakers with the question of ‘what is the opposite of metaphor’ or ‘what is not a metaphor’. He elicited suggestions from the audience, who came up with this list:
+
+> model, diagram, definition, truths, math, experience, facts, logic, the object, denotation
+
+The interesting thing is that most of the items on this list are in fact metaphorical in nature. Most certainly models, diagrams and definitions (more on these in future posts). But mathematics and logic are also deeply metaphorical (both in their application but also internally; e.g. the whole logico mathematical concept of proof is profoundly metaphorical).
+
+Things get a bit more problematic with things like truth, fact, denotation and the object. All of those seem to be pointing at something that is intuitively unmetaphorical. But it doesn’t take a lot of effort to see that ‘something metaphorical’ is going on there as well. When we assign a label (denotation), for instance, ‘chair’ or ‘coast’ or ‘truth’ we automatically trigger an entire cognitive armoury for dealing with things that exist and these things have certain properties. But it is clear that ‘chair’, ‘coast’ and ‘metaphor’ are not the same kind of thing at all. Yet, we can start treating them the same way because they are both labels. So we start asking for the location, shape or definition of metaphor, just because we assigned it a label in the same way we can ask for the same thing about a chair or a coast. We want to take a measure of it, but this is much easier with a chair than with a coast (thus the famous [fractal puzzle about the length of the coast of Britain](http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension)). But chairs are not particularly easy to nail down (metaphorically, of course) either, as I discussed in [my post on clichés and metaphors](http://metaphorhacker.net/2012/08/cliches-information-and-metaphors-overcoming-prejudice-with-metahor-hacking-and-getting-it-back-again).
+
+### Brute facts of tiny ontology
+
+So what is the thing that is not a metaphor? Both Bronk and Mellor suggested the “brute fact”. A position George Lakoff called *basic realism* and I’ve recently come to think of as *tiny ontology*. The idea, as expressed by Mellor and Bronk in this discussion, is that there’s a real world out there which impinges upon our bodily existence but with which we can only interact through the lens of our cognition which is profoundly metaphorical.
+
+But ultimately, this does not give us a very useful answer. Either everything is a metaphor, so we might as well stop talking about it, or there is something that is not a metaphor. In which case, let’s have a look. Tiny ontology does not give us the solution because we can only access it through the filter of our cognition (which does not mean consciously or through some wilful interpretation). So the real question is, **are there some aspects of our cognition that are not metaphorical?**
+
+### Metaphor as model (or What is metaphor)
+
+The solution lies in the revelation hinted at above that labels are in themselves metaphors. The act of labelling is metaphorical, or rather, it triggers the domain of objects. What do I mean by that? Well, first let’s have a look at how metaphor actually works. I find it interesting that nobody during the entire discussion tried to raise that question other than the usual ‘using something to talk about something else’. Here’s my **potted summary of how metaphor works (**see more details in the [About section](http://metaphorhacker.net/about)).
+
+> **Metaphor is a process of projecting one conceptual domain onto another.** All of our cognition involves this process of conceptual integration (or blending). This integration is fluid, fuzzy and partial. In language, this domain mapping is revealed through the process of deixis, attribution, predication, definition, comparison, etc. Sometimes it is made explicit by figurative language. Figurative language spans the scale of overt to covert. Figurative language has a conceptual, communicative and textual dimension (see my [classification of metaphor use](http://metaphorhacker.net/2013/04/how-we-use-metaphors)). In cognition, this process of conceptual integration is involved in identification, discrimination, manipulation. All of these can be more or less overtly analogical.
+
+So all of this is just a long way of saying, that **metaphor is a metaphor for a complicated process** which is largely unconscious but not uncommonly conscious. In fact, in my research, I no longer use the term ‘metaphor’ because it misleads more than it helps. There’s simply too much baggage from what is just overt textual manifestation of metaphor – the sort of ‘common sense’ understanding of metaphor. However, this common sense ordinary understanding of ‘metaphor’ makes using the word a useful shortcut in communication with people who don’t have much of a background in this thought. But when we think about the issue more deeply, it becomes a hindrance because of all the [different types of uses of metaphor](http://metaphorhacker.techczech.net/2013/04/how-we-use-metaphors/ "How we use metaphors") I described here (a replay of the dual liberating and coercive nature of metaphor mentioned above – we don’t get escape our cognition just because we’re talking about metaphors).
+
+In my work, I use the term **frame**, which is just a label for a sort of **conceptual** **model** (originally suggested by Lakoff as Idealized Cognitive Model). But I think in this context the term **‘model’** is a bit more revealing about what is going on.
+
+So we can say that **every time, we engage conceptually with our experience, we are engaging in an act of modelling (or framing).** Even when I call something ‘true’, I am applying a certain model (frame) that will engage certain heuristics (e.g. asking for confirmation, evidence). Equally, if I say something like ‘education is business’, I am applying a certain model that will allow me to talk about things like achieving economies of scale or meeting consumer demand but will make it much harder to talk about ethics and personal growth. That doesn’t mean that I cannot apply more than one model, a combination of models or build new models from old ones. (*Computer virus* is a famous example, but *natural law* is another one. Again more on this in later posts.)
+
+### Action as an example of modelling
+
+The question was asked during the discussion by an audience member, whether I can experience the world directly (not mediated by metaphoric cognition). The answer is yes, but even this kind of experience involves modelling. When I walk along a path, I automatically turn to avoid objects – therefore I’m modelling their solid and interactive nature. Even when I’m lying still, free of all thought and just letting the warmth of the shining sun wash over me, I’m still applying a model of my position in the world in a particular way. That is, my body is not activating my ears to hear the sun rays, nor is it perceiving the bacteria going about their business in my stomach. A snake, polar bear or a fish would all model that situation in a different way.
+
+This may seem like unnecessary extension of the notion of a model. (But it echos the position of the third speaker [Roger Kneebone](https://twitter.com/ProfKneebone) who was talking about metaphor as part of the practice of surgery.) It is not particularly crucial to our understanding of metaphor, but I think it’s important to divert us from a certain kind of perceptual mysticism in which many people unhappy with the limitations of their cognitive models engage. The point is that **not all of our existence is necessarily conceptual but all of it models our interaction with the world and switches between different models as appropriate.** E.g. my body applies different models of the world when I’m stepping down from a step on solid ground or stepping into a pool of water.
+
+The languages of metaphor: Or how a metaphor do
+-----------------------------------------------
+
+I am aware that this is all very dense and requires a lot more elaboration (well, that’s why I’m writing a blog, after all). But I’d like to conclude with a warning that the language used for talking about metaphor brings with it certain models of thinking about the world which can be very confusing if we don’t let go of them in time. Just the fact that we’re using words is a problem. When words are isolated (for instance, in a dictionary or at the end of the phrase ‘What is a…’) it only seems natural that they should have a definition. We have a word “metaphor” and it would seem that it needs to have some clear meaning. The kind of thing we’re used to seeing on the right-hand side of dictionaries. But **insisting that dictionary-like definition is what must be at the end of the journey is to misunderstand what we’ve seen along the way**.
+
+There are many contexts in which the construction “metaphor is…” is not only helpful but also necessary. For example when clarifying one’s use: “In this blog, what I mean by metaphor is much broader than what traditional students of figurative language meant by it.” But in the context of trying to get at what’s going on in the space that we intuitively describe as metaphorical, we should almost be looking for something along to the lines of “metaphor does” or “metaphors feels like”. Or perhaps refrain from the construction “metaphor verb” altogether and just admit that **we’re operating in a kind of metaphor-tasting soup**. We can get at the meaning/definition by disciplined exploration and conversation.
+
+In conclusion, **metaphor is a very useful model when thinking about cognition, but it soon fails us, so we can replace it with more complex models, like that of a model.** We are then left with the rather unsatisfactory notion of a metaphor of metaphor or a model of model. The sort of dissatisfaction that lead Derrida and his like to the heights of obscurity. I think we can probably just about avoid deconstructionist obscurantism but only if we adopt one of its most powerful tools, **the fleeting sidelong glance** (itself a metaphor/model). Just like the Necker cube, this life on the edge of metaphor is constantly shifting before our eyes. Never quite available to us perceptually all at once but readily apprehended by us in its totality. At once opaque and so so crystal clear. Rejoice all you parents of freshly screaming thoughts. It’s a metaphor!  
+Photo Credit: [@Doug88888](http://www.flickr.com/photos/29468339@N02/3025297913/) via [Compfight](http://compfight.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
+
+### *Related*
