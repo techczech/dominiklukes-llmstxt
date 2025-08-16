@@ -1,0 +1,38 @@
+---
+title: "I object: A male feminist’s view on the Duchess of Cambridge’s Wedding dress"
+date: 2011-04-29
+author: Dominik Lukeš
+source: https://metaphorhacker.net/2011/04/i-object-a-male-feminists-view-on-the-dutches-of-cambridges-wedding-dress
+---
+
+[![Welcome to our wedding](http://farm6.static.flickr.com/5144/5664356426_e656ccff2a_m.jpg "Welcome to our wedding")](http://www.flickr.com/photos/16061323@N07/5664356426)
+
+Image by bobfranklin (mostly tacit) via Flickr
+
+Maybe I should be watching more TV but I honestly had no idea what [Kate Middleton](http://en.wikipedia.org/wiki/Kate_Middleton "Kate Middleton") looked like. There must have been times I would have heard references to her and thought she was some kind of actress or model. And frankly, I still don’t care.
+
+But I do care about her dress. I am quite naive in the way of things (despite my interest in the ethnography of the everyday) so the fact that it may matter what the future queen will be wearing on her wedding day was not obvious to me. And matter more to many than whether a former prime minister or two were invited. I heard about it on the [Today programme](http://www.bbc.co.uk/radio4/today/ "Today (BBC Radio 4)") this morning and realised that I had been pretty silly not to have thought about it and then all was clear when I got a text from a female friend who professed that the dress was the main thing of import.
+
+And there’s really nothing all that wrong with that. The fate of two luminary has beens is really of no more [ritual](http://en.wikipedia.org/wiki/Ritual "Ritual") import (probably quite a bit less) than the dress of one of the key participants in the nuptial proceedings. There are all sorts of legitimate concerns such as the allusions to fashions and traditions, the nationality and status of the designer, the possibility of a radical statement being made, and so on. Dresses obviously matter. And the fact that they matter more to women than men should make them no less important.
+
+[![Pince William and Kate Middleton's wedding](http://farm6.static.flickr.com/5103/5670038636_e5153e072f_m.jpg "Pince William and Kate Middleton's wedding")](http://www.flickr.com/photos/51065912@N08/5670038636)
+
+Image by Lea Ann Belter Bridal via Flickr
+
+But then I saw it. It was by accident on a page talking about online streaming records (the sort of thing I take an interest in of an afternoon). And I remembered how much I hate female dresses (almost as much as women’s shoes). First, I hate them because they look uncomfrotable (but then a certain amount of discomfort is to be expected during a ritual). But more importantly I hate them because of the actual ritual symbolism. Ms Middleton was standing next to Mr Windsor who was clad in some sort of military get up as befits the protector of a nation. And she was smiling presumably to indicate some sort of emotional attachment to the man (whether a genuine affection or a public performance or a mixture of both is of no relevance to me). However, whereas his dress spoke of conquest and spoils of war, hers was all captured fecundity. She was the symbol of putting all of the women whose gaze was firmly fixed on every frill and curve in their procreative and caring place. The Royal family captured the youth and fertility of the nation into its net and was displaying its prize.
+
+I probably would have hated any [wedding dress](http://en.wikipedia.org/wiki/Wedding_dress "Wedding dress") but this one seemed to me particularly insidious in the understated manner with which it suggested tradition and a sexual act of possession being performed right before the adoring eyes. Why not break with tradition and wear Clintonesque trousers? You can allude to the past with a frilly hat if absolutely necessary! OK, perhaps here I am imputing my revolutionary desire onto a woman who probably quite enjoys the opportunity to play the role of a traditional princess. And I don’t believe there’s anything wrong with women playing traditional roles if that’s the sort of game they either enjoy or from which they can derive power. Also, it is entirely possible since I don’t speak the language of dresses that I misunderstood the symbolism of this one. Maybe it is one merging modernity with the past in a way I’m not able to understand. But even then I believe my general point stands: We need new rituals of formality for new times not reliant on gender roles just for the sake of them. And since the roles of men and women in marriage have changed, shouldn’t the way in which they are consecrated change also?
+
+[![Man and Wife](http://farm6.static.flickr.com/5028/5668903265_ebd8868127_m.jpg "Man and Wife")](http://www.flickr.com/photos/53004883@N02/5668903265)
+
+Image by Beacon Radio via Flickr
+
+All dress is a mask in the performance of one role or another. But it is important that like any actor, a woman can step away from the role she playing. There’s lots of evidence that a burqa can be an empowering statement fraught with social and political as well as gender classifications. Only it is too easy a mask to weld onto a woman’s face. Just as much as a dress stressing sexual availability while the adjacent man’s demands executive power. There is nothing in our society that justifies that division of power so why not try to invent new rituals that promote the kind of public equality we want to see.
+
+I have nothing against men and women signalling their [sexual identity](http://en.wikipedia.org/wiki/Sexual_identity "Sexual identity") through dress in the appropriate situations like clubs and pubs. But I think at formal public functions there’s no need to promulgate this stereotype. Dapper still indicates easy prosperity while resplendent or ravishing implies sexual possession. Why not have men extentuate their genitalia (as they do in many cultures) in these situations rather than pretend they’re there just to grab a woman for a bit of procreation and get back to their busy lives managing trade in the [East Indies](http://en.wikipedia.org/wiki/East_Indies "East Indies").
+
+I started Metaphor Hacker to question the easy over-interpretation of metaphor as a trope of inevitable consequence. It is of course possible for a woman to code switch and perform important executive role while dressed in a conventional female manner. The historical interpretation of the female [formal dress](http://en.wikipedia.org/wiki/Formal_wear "Formal wear") need not apply today (as it may not have straigthforwardly applied in the past). What I’m asking for here is a political act relying on that historical interpretation and saying ‘no more’ or at least ‘only if we really feel like it’.
+
+However, one feature of human communication I’m particularly keen to discuss more is the notion of inventory of patterns of expressions. So although the conceptual underpinnings of the ritual may not be straightforward, if the constant unvaried performance is all that there is, women may not be able to reach into the inventory for an effortless alternative. So while dresses are something that women talk about and should not be thought of as being of lesser value, it is all too easy to see them that way. Women should not be apologetic for this and I’m sure they’re not. But we all need to be careful not to go back to the time of [Odysseus](http://en.wikipedia.org/wiki/Odysseus "Odysseus") when men went to war and returned to slay suitors of the women who stayed behind to weave and keep chaste!
+
+### *Related*

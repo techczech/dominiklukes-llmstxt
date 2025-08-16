@@ -1,0 +1,28 @@
+---
+title: "Why Chomsky doesn’t count as a gifted linguist"
+date: 2010-08-01
+author: Dominik Lukeš
+source: https://metaphorhacker.net/2010/08/why-chomsky-doesnt-count-as-a-gifted-linguist
+---
+
+Somebody commented on the Language Log saying “of course […] Chomsky was a massively gifted linguist” <http://j.mp/9Q98Bx> and for some reason, to use a Czech idiom, the handle of the jar repeatedly used to fetch water just fell off. Meaning, I’ve had enough.
+
+I think we should stop thinking of Chomsky as a gifted linguist. He was certainly a gifted mathematician and logician still is a gifted orator and analyst of political discourse (sometimes putting professionals in this area to shame). But I honestly cannot think of a single insight he’s had about how language works as language. His main contribution to the study of language (his only one really) was a description of how certain combinatorial properties of English syntax can be modeled using a particular formal system.  This was a valuable insight but as has been repeatedly documented (e.g. Newmeyer 1986) its runaway success was due to a particular historical context and was later fed by the political prominence of its originator. Unfortunately, everything that followed was predicated on the model being isomorphic with the thing modeled. Meaning all subsequent insights of Chomsky and his followers were confined to refining the model in response to what other people knew about language and not once that I can think of using it to elucidate an actual linguistic phenomenon. (Well, I tell lie here, James MacCawley who worked with GB – and there must have been others – was probably an exception.) Chomsky’s followers who actually continued to have real insights about language – Ross,  Langacker, Lakoff, Fillmore – simply ceased to work within that field – their frustration given voice here by Robin Tolmach Lakoff:
+
+> [Generative approaches to the ‘science’ of language meant] “accepting the impossibility of saying almost everything that might be interesting, anything normal people might want or need to know about language.“ (Robin Tolmach Lakoff, 2000, Language War)
+
+So who deserves the label “gifted linguist” defined as somebody who repeatedly elucidates legitimate language phenomena in a way that is relevant across areas of inquiry? (And I don’t mean the fake relevance followers of the Universal Grammar hypothesis seem to be finding in more and more places.)
+
+Well, I’d start with MAK Halliday who has contributed genuine insights into concepts like function, cohesion, written/spoken language, etc. Students on “linguistics for teachers” courses are always surprised when I tell them that pretty much all of the English as first or second language curriculum used in schools today was influenced by Halliday and none by Chomsky – despite valiant efforts to pretend otherwise.
+
+But there are many others whose fingerprints are all over our thinking about language today. The two giants of 20th century linguistics who influenced probably everyone were Roman Jakobson and Charles Fillmore – neither of whom established a single-idea school (although Jakobson was part of two) but both were literal and metaphorical teachers to pretty much everybody. Then there’s William Labov who continues to help shift the “language decline” hypothesis on which much of 19th century philology was predicated. And, of course, there are countless practicing linguists who have interesting things to say about language every day – one needs to look no further than the contributors to the [excellent Language Log](http://languagelog.ldc.upenn.edu). I don’t want to list any others of the top of my head lest I forget someone important, but here some of my favorites:
+
+My personal favorite linguist has long been Michael Hoey whose “lexical priming” hypothesis deserves more discussion and a lot more following than it has received. I got a real chill of excitement reading William Croft’s “Radical Construction Grammar”. It is probably the most interesting and innovative view of language that has come about since de Saussure.
+
+Most of my thinking about language has been influenced by George Lakoff (so much I translated his thickest book into Czech – <http://cogling.info>) and Ronald Langacker who could both be said to be ‘single-theory’ thinkers but are actually using this theory to say interesting things about language rather than using language to say interesting things about their theory.
+
+I have said to people at one point or another, you should read one of these linguists to understand this point about language better. I have never said that about Chomsky. Not once. I have said, however, you should read this thing by Chomsky to understand Chomsky better. (Not that it always helps, I’ve come across a book called [Structure of Language](http://www.amazon.co.uk/Structure-Spoken-Written-Language-English/dp/1861564295) whose authors’ sparse reference list includes all of Chomsky’s books but who refer to his work twice and get it wrong both times.) There is no denying Chomsky’s multi-disciplinary brilliance but a particularly gifted linguist he is not. He is just the only one most people can think of.
+
+BTW: Here’s why I think Chomsky’s wrong. But that wasn’t really the point. Whether he’s right or wrong, he’s largely irrelevant to most people interested in language, and the sooner they realize they’re wasting their time, the better.
+
+### *Related*

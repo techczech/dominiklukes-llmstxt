@@ -1,0 +1,18 @@
+baseURL = "https://techczech.github.io/dominiklukes-llmstxt/"
+languageCode = "en"
+title = "Dominik Lukeš — Writing Corpus"
+[pagination]
+  pagerSize = 20
+enableRobotsTXT = true
+contentDir = "../content"
+
+[params]
+  description = "A clean, text-first corpus of my writing for humans and machines."
+  author = "Dominik Lukeš"
+
+# Let’s keep it theme-agnostic for now; we can add PaperMod/Ananke in Step 5
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

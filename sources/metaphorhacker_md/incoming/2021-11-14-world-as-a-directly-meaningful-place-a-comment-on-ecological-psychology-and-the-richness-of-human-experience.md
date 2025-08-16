@@ -1,0 +1,78 @@
+---
+title: "World as a directly meaningful place: A comment on Ecological Psychology and the richness of human experience"
+date: 2021-11-14
+author: Dominik Lukeš
+source: https://metaphorhacker.net/2021/11/world-as-a-directly-meaningful-place-a-comment-on-ecological-psychology-and-the-richness-of-human-experience
+---
+
+I just finished reading [Andrew Wilson’s series of blog posts](https://psychsciencenotes.blogspot.com/2021/11/is-direct-perception-plausible.html) on the foundation of ‘ecological psychology’ This post started as a comment but it was too long for the comment field (and at 1800 words, that’s not a surprise), so I’m posting it here. It is a bit rough and in places, it expects, that you know what the original posts say. I added some quotes for context but the original posts are still worth a read. But even on its own, I think this post lays out the argument for the need of a more robust psychological account of the human experience.
+
+When I read this in the [first post](https://psychsciencenotes.blogspot.com/2021/10/what-does-it-mean-for-perception-to-be.html) of the series “we must make the world a meaningful place”, I was sold. I’d been sold on this idea for a long time. I am particularly taken with this “the world does present itself in behaviourally relevant terms”.
+
+Ecological psychology in a nutshell
+-----------------------------------
+
+Wilson summarises the overall thrust of ‘ecological psychology’ as follows:
+
+> The ecological approach is a theory of direct perception. Put simply, direct perception proposes that our perceptual experience of the world is not mediated by anything that sits between the world and that experience.
+
+This is intriguing as a proposition and there’s a lot to recommend it. In fact, I’d been reading up on ecological psychology because of this recently. But I have not seen an account that can actually live up to the promise. So I dove into the series with high hopes which the introductory post only encouraged.
+
+But as I continued reading the series, I was getting increasingly dismayed as we were getting farther and farther away from anything that seemed like meaningfulness in any meaningful sense. This is my problem with ecological psychology when I encounter it in practice – it’s fighting battles at the margins of real problems. Do be honest, I don’t care about whether, there is a plausible ontology behind direct perception. I’m interested in whether there is a plausible psychology behind it. Wilson spends a lot of time getting away from the idea of properties of objects in favour of dispositions – which include second order properties such as ‘liftability’ of an anvil or ‘solubility’ of salt. This paragraph lays out fairly clearly.
+
+> Objects in the physical environment are disposed to be acted on by an organism in some ways and not others. Those dispositions are higher-order properties of the object constituted by a particular arrangement of currently present material properties of the object, and we call these *affordances*. At the same time, organisms are disposed to be able to act on objects in some ways and not others. These dispositions are higher-order properties of the organism, constituted by a particular arrangement of currently present material properties of the organism, and we call these *effectivities*. Affordances and effectivities are just complementary dispositions, but we name them differently to keep track of them in our analysis, because it will matter which one we are talking about at any given time.
+
+He stresses that affordances are not relational but dispositional. He then talks about the need for ecological information to solve the problem of us not being able to actually perceive things like the solubility of salt without the need for mental computation.
+
+Ok, so we have the terms. But what can we do with them? Affordances as dispositions – fine. Ecological information – good. But let’s resolve some real problems with “salt” for both representational and non-representational psychology.
+
+Some problems with perceiving ‘salt’ – from shakers to angry villagers
+----------------------------------------------------------------------
+
+Salt is salty. Saltiness is a disposition which my effectivity turns into an affordance (if I get the terms right). But what is happening when I’m reaching for some salt to put into my soup?
+
+1. Saltiness is nowhere represented in the environment at that moment, yet, it is a part of that process. I’m reaching for it instead of pepper or sugar for a reason. The effectivity of my salt-tasting is a part of me whether I want it or not, but I had to learn that that’s what salt does. That is so inherent to my lived experience of salt and saltiness that to think about it with some sort of ‘mental representation’ – script, schema, plan, frame – is as natural as breathing. But I have a problem. I am not running a structured search through some sort of a repository of frames nor doing a Bayesian probability match as I’m reaching for salt. Salt, as ecological psychology so intriguingly says, is directly meaningful to me. I am solving a task. But without, for lack of a better word, knowledge of salt and its properties, or dispositions, if you wish, it is stripped of all meaningfulness. In this context, renaming a property to a disposition is just doing a job of relabelling an established term without adding much in the way of new ideas. But there are other problems.
+2. Another disposition of salt is its whiteness. This would be very important to me were I to be asked to pick out salt out of the carpet. But the whiteness of salt is a learned property. These days, there’s apparently also Himalayan salt which is pink. When someone tells me to put the salt as I know it into a box labelled ‘table salt’ and the ‘pink salt’ into a box labelled ‘Himalayan salt’ that I never heard of before, something important is happening. When I’m performing those actions, both ‘table’ and ‘Himalayan’ become directly meaningful to me but their meaningfulness also includes the new labels, the fact of novelty, etc. And all of that is a part of my experience of them. I think that this again is not mediated by some algorithmic process of matching the perceived objects and conceived concepts to stored representations. It flies in the face of everything we know about the speed of processing and the limits of working memory. But the richness of, for lack of a better word, representation is a part of it. I literally could not accomplish the task without all of that (and much more) being involved. True, I could train a pigeon to do this without this sort of representation but it does not scale.
+3. Of course, sometimes, I am doing something very similar to running a structured search through some stored representations. For some grains of salt, I may not be sure about whether the level of pinkness justifies it being classed as “Himalayan”. So, I may hold it up against the light to examine it, look at it side by side with a more prototypical example of Himalayan or regular grains of salt. I may even ask someone near me to help adjudicate. I experience all of these computationally (that’s why the computational metaphor of the mind precedes computers) but the inputs into the ‘algorithms’ I am perceiving are not computational. I think we can tell an ecological story about this but not without some account of explicit mental operations.
+4. But I may not even be visually perceiving anything resembling salt. I may just be seeing a white porcelain object on the table with holes in the top of it. Ok, that seems straightforward enough, but I travel between countries a lot and some countries put salt in shakers with one hole and pepper in the shakers with three holes while others swap them around. So, I have to take that into account. Most of the time, I do this without deliberation – direct perception being in operation. But sometimes I pick wrong. I see pepper pouring out of the three holes I want salt from, I see the difference, figure out the problem, remind myself which country I’m in, and go on to pick the right shaker. Of course, this is not something anyone tells you when you cross the border, so I also had to figure out after I made this error a few times. And I have since talked to many people about it as an ‘interesting’ example of cross-cultural differences. (I am a riot at parties).
+
+So, we have planning, reasoning, learning, error correction and people talking/writing/laughing about all of the above.
+
+And that’s even before we get things like metaphor – “I’m pretty salty about that” is a fairly new phrase (at least for me). But I heard that sentence recently for the first time and immediately knew what it meant. How did that instant knowledge come about. There’s a new village being built nearby stirring a lot of controversy among the locals. It is going to be called ‘Salt Cross’ to allude to historical trade routes going through the area. Somebody on Facebook remarked that it’s funny because both words describe how the locals feel about it. What’s that all about?
+
+Some theories: Phenomenology, language as a gesture, cognition, and conquest of abundance
+-----------------------------------------------------------------------------------------
+
+When I’m navigating the world, all of that, for lack of a better word, ‘conceptualising’ is happening, as well. Deliberation, metaphors, arguments are also a part of a directly meaningful world and I am very interested in thinking of my experience of these as not being mediated by complex mixing and matching of abstract symbols. But I’m more likely to find robust treatments in works by a phenomenologist like Merleau-Ponty who talks of the experience of language being similar to brushing off a mosquito off of one’s arm. Speaking a language is a sort of gesture on this account and I think there’s a lot to recommend that framing.
+
+But if we want to understand the world this gesture is interacting with, we have to take into account the sort of analysis Lakoff did in Women, Fire and Dangerous Things of words like *mother* or *over*. Radial categories and idealized cognitive models may not be objects and our brain may not be a sort of computer in which these objects are stored and operated on. But they do describe real experience of the world.
+
+What’s more, words, objects, or actions are never on their own. They always combine and recombine. They are differently meaningful to us in different contexts. Perceptually tiny differences have huge conceptual consequences. ‘Salt of the Earth’ and ‘Salt the Earth’ differ by but one word, yet, there’s a world of a difference between them. I want to have a theory like conceptual integration by Fauconnier and Turner to make sense of these combinations. Ecological psychology can account for these changes when dealing with throwing or running after a football – but when it comes to language, something like constructions and blending seems like a better model. Many people try to formulate these models computationally, but this leaves out most of their richness and malleability. I think the ‘ecological’ perspective of direct meaning is much more fruitful here. But then ecological psychologists go around insisting that mental representations don’t exist.
+
+Unfortunately, the world is not always directly meaningful to us. It presents puzzles and problems. We take wrong paths, trip up, make mistakes of all sorts. When we pause and start to correct them, some sort of a different process kicks into place. Perhaps the most ignored part of Kahneman’s book on Thinking Fast and Slow is that there may not actually be any such thing as ‘system 1’ and ‘system 2’ but we behave as if there were. We need to acknowledge that this is a part of our world, as well. Any theory of humans that sweeps this under the rug is as incomplete as one that puts it front and centre.
+
+Feyerabend’s last unfinished book was called ‘Conquest of Abundance’ and he described it as follows:
+
+> The book is intended to show how specialists and common people reduce the abundance that surrounds and confuses them, and the consequences of their actions.
+
+Ecological psychology’s program is attractive because it puts us right in the midst of this abundance as organisms. But it needs to do a better job of addressing problems outside a quite narrow set of disciplines. It is strongest in the fields of perception and motion but has very little to say about what we think of as cognition. There are some [hints](https://psychsciencenotes.blogspot.com/2021/02/the-constraints-based-approach-to.html) that this possible but it’s not clear how we get from the basics to the higher level stuff.
+
+The case of digital reading and computer interfaces
+---------------------------------------------------
+
+I’m currently looking at how people learn to read on digital devices. What is the transition from a printed medium with physical affordances to a digital medium with most affordances mediated by a symbolic interface?
+
+And, of course, we can’t just account for the user’s behaviour and call the job done. We also have to have a plausible ecological story to tell about the designers of the interfaces (not to speak of the engineers designing the hardware). All of these people (users, designers, trainers) live in a meaningful world surrounded not just by objects and interfaces to be perceived. They are embedded in what I’ve started calling the “zone of proximal capabilities” (as riff on Vygotsky). They ask friends, show colleagues, follow examples, test theories, make and watch videos on YouTube, read books about good design, etc. An ecological theory that does not take this into account has a very impoverished view of the environment in which the human organism is situated.
+
+I can see how a symbolic account would be appealing. But it fails the mosquito test. All that I described is not mediated, it is as directly available to us, as the action of swatting a mosquito. Once it is learned, that is. And these things have history. Social history. Using the mouse to drag objects on the screen, pinching to zoom on the phone. These are all a part of our direct perception of the environment. But they weren’t always. Now interface designers can count on this and that’s further changing the environment and its affordances. However, we also need to keep in mind that the ability to navigate that environment is not uniform across the population (just like with the physical environment) and that’s why people like me have a job. So that’s another thing to solve.
+
+Explaining this joke about Pavlov is a prerequisite for any theory of psychology
+--------------------------------------------------------------------------------
+
+I have a new favourite joke courtesy of [Reddit](https://www.reddit.com/r/Jokes/comments/2zvwmj/pavlov_walks_into_a_bar/):
+
+> Pavlov is sitting at the bar drinking a beer. Someone walks in and it rings a bell over the door. Pavlov jumps up, slaps his head and cries out: “Shit, I forgot to feed the dogs.”
+
+I think the joy of this joke is direct, unmediated by a cognitive process. But it also makes no sense without an account of many layers of richly structured knowledge acquired over time in a social as well as physical environment. And as the [comments on Reddit](https://www.reddit.com/r/Jokes/comments/20hilx/ivan_pavlov_is_sitting_at_a_pub_enjoying_a_pint/) indicate, this knowledge cannot be taken for granted. And reconciling that directness of the experience with that sort of rich account of ‘knowledge’ with all its social consequences is what I want from any theory of psychology claiming to account for a “world as a meaningful place”.
+
+### *Related*

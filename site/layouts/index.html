@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+</head>
+<body>
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Recent Posts</h2>
+            {{ range .Pages }}
+            <article>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <time>{{ .Date.Format "2006-01-02" }}</time>
+                <p>{{ .Summary }}</p>
+            </article>
+            {{ end }}
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }}</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+</head>
+<body>
+    <header>
+        <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+        <p>{{ .Site.Params.description }}</p>
+    </header>
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <footer>
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }}</p>
+    </footer>
+</body>
+</html>

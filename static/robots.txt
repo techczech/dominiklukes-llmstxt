@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techczech.github.io/dominiklukes-llmstxt/sitemap.xml
