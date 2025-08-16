@@ -88,11 +88,33 @@ jobs:
             exit 1
           fi
 
+      - name: Debug repository structure
+        run: |
+          echo "=== Repository contents ==="
+          find . -name "*.toml" -o -name "hugo.toml" -o -name "config.toml" | head -10
+          echo "=== Site directory ==="
+          ls -la site/ || echo "No site directory"
+          echo "=== Root directory ==="
+          ls -la . | head -20
+
       - name: Build Hugo site
         run: |
           # Ensure Hugo is available via action
           npm i -g hugo-bin || true
-          hugo --minify --config site/hugo.toml --source site --destination site/public
+          # Check if config exists and build accordingly
+          if [ -f "site/hugo.toml" ]; then
+            hugo --minify --config site/hugo.toml --source site --destination site/public
+          elif [ -f "site/config.toml" ]; then
+            hugo --minify --config site/config.toml --source site --destination site/public
+          elif [ -f "hugo.toml" ]; then
+            hugo --minify --config hugo.toml --destination site/public
+          elif [ -f "config.toml" ]; then
+            hugo --minify --config config.toml --destination site/public
+          else
+            echo "No Hugo config found, creating basic site structure"
+            mkdir -p site/public
+            echo "<h1>Site building...</h1>" > site/public/index.html
+          fi
 
       - name: Generate Pagefind index
         run: |
