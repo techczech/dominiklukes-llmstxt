@@ -4,7 +4,7 @@ title = "Dominik Lukeš — Writing Corpus"
 [pagination]
   pagerSize = 20
 enableRobotsTXT = true
-contentDir = "../content"
+contentDir = "/Users/dominiklukes/gitrepos/dominiklukes-llmstxt/content"
 
 [params]
   description = "A clean, text-first corpus of my writing for humans and machines."

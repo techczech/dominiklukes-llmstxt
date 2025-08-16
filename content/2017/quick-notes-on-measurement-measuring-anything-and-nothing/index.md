@@ -1,0 +1,110 @@
+---
+canonical_url: https://medium.com/metaphor-hacker/quick-notes-on-measurement-measuring-anything-and-nothing-29bd0d1a2e9?source=rss----67ad910371b8---4
+date: '2017-11-18'
+id: md-20171118-quick-notes-on-measurement-measuring-anything-and-nothing
+language: en
+license: CC-BY-4.0
+original_format: html
+source:
+  name: Medium
+  url: https://medium.com/feed/metaphor-hacker
+tags:
+- measurement
+- science
+- metaphor
+- philosophy
+- rationality
+title: 'Quick notes on measurement: Measuring anything and nothing'
+---
+
+![](https://cdn-images-1.medium.com/max/1024/1*7DXn-l5lH1F1zmxAUsF-Jg.jpeg)
+
+### Note:
+
+These were supposed to be quick notes. But they ain’t. Be warned.
+
+### Background
+
+In a recent [Rationally Speaking](http://rationallyspeakingpodcast.org/show/rs-197-doug-hubbard-on-why-people-think-some-things-cant-be.html) podcast Julia Galef and Doug Hubbard discussed the notion of ‘How to Measure Anything’. This is not a screed against daring to assign numerical values. I think we need to start from the premise that everything that Juia and Doug said is correct. However, I want to show that even with that premise, the intuitive objections to assigning numerical values to human values are still necessary. And in fact, if we object on these grounds, we can see that in fact we can measure nothing while we can still benefit from using tools of measurement to think about complex problems. But these tools are metaphors about those problems — they are not describing some hidden true essence — they are giving us a way of thinking about them. And as with any metaphors, we need to reject them as often as take them for our own.
+
+### Measurement tropes cooled down
+
+So this is how the story goes.
+
+Doug Hubbard is responding to a common trope in the form of ‘you can’t put a value on X’ where X E {life, happiness, etc.} Because these things have intrinsic value, they are too important, and on and on and on.
+
+But in fact, we do put value on all of these things through our actions argue people like Doug Hubbard and Julia Galef. And we can calculate roughly what that value is when we look at your actions.
+
+And we can do similar magic with things that you think are OK to measure but cannot be measured. Things like the likelihood that a factory will grind to a halt or the impact of education on future earnings. And so on and on and on.
+
+And with a little change in perspective, we can convert this general value into a numerical value. Thus we can calculate even something as seemingly incalculable as the value of a person’s life. Simply by measuring various proxies that can have numerical values assigned to them. E.g. how much money will people pay to get a safer car, etc.
+
+But things are not as straightforward, we all know that no matter what fancy measurement we do of complex issues, we get things wrong all the time. ALL THE TIME!
+
+### Reframing and rereframing measurement
+
+Here is where Doug Hubbard pulls off a neat conceptual trick. He says: “because measurement is a way of reducing uncertainty, that means that we can truly measure anything”. And that lights up a bulb in our heads and we say, of course, we can do that. We cannot ever produce certainty, but we can always reduce uncertainty. I’m sounding a little hyperbolic and feeling very ironic, but it is atually legitimately useful perspective shift. Where once we dispaired that certainty is forever out of our reach, we now see a glimmer of hope in that we can at least reduce it somewhat. And once we have that hope, we can start reducing our uncertainty by measuring everything in sight. So we’re a little less uncertain about whether it will rain or not tomorrow, whether the stockmarket will crash, and so on and so forth.
+
+And people who take this philosophy to heart and adopt the related tools will benefit. Not a little. A lot.
+
+So that is all good. And I agree that more people should take this approach to more things. And that the detractors objecting to this sort of approach to measurement on principle are wrong.
+
+### Two massive problems
+
+But, there are two massive problems with this view.
+
+First, in as much as words ever mean anything, the word measurement does NOT mean ‘reducing uncertainty’. It means almost the opposite, namely, ‘producing certainty’. That’s what it means. I see a basket of apples and I think there may be 15 apples in there. But I want to be certain before I make plans for my party. So I count them. And now I am certain that each of the guests at my apple eating party will have an apple. I think my window is 90 centimeters across, but I want to be certain before I click buy on the roller blind. So I measure the window, and now I am certain.
+
+That’s what measurement means in daily life. And that’s what people intuitively know we cannot do with really complicated or really abstract things.
+
+But things are even more complicated. Even these simple certainty-producing measurements are relative to the need I’m measurig them for. What if one of the apples is much smaller, or pockmarked. I still have 15 ‘apples’ but not enough for 15 guests. Or maybe one of them is a strange hybrid cross with a pear so I’m not even sure if it ‘counts’ as an apple.
+
+The same with meauring my window. What if some manufacturer’s roller blinds are 0.00001 of a centimeter too long. And the bracket on my window is 0.00001 of a centimeter too short. Well, with roller blinds, I’m sure that does not matter. But what if I’m building an atomic clock? How precise do I need to be? There is always some usecase (perspective) where more precision is required than I am able to produce, all the way to blessed infinity.
+
+But thankfully, we have redefined measurement as a reduction of uncertainty. So I’m better off having counted the apples and measured my window to the nearest milimiter because at least I’ve increased my chances of having a fun apple party and buying the right curtains. And 666 times out of 669, it works. Certainly more times than if I didn’t measure at all. But the devil is in the detail. Or rather the perspective.
+
+If you define measurement as producing certainty (which is the intuitive definition of most people) and take it to its conclusion. You will get the unfortunate result, that you can actually measure nothing. Because at the very best, we don’t have the tools to measure precisely enough for producing certainty and at worst, we actually can’t because of those pesky infinities.
+
+So this is the perspective of the people who criticise measurement. And they’re not wrong. They’re just happen to be using the common sense definition of ‘measurement’.
+
+And that’s why redefining it can be so powerful. We can not only feel better about all the measurements we are doing, we can also start measuring a lot more things. And I’m all for that.
+
+BUT.
+
+There is also the second massive problem. Sometimes reducing uncertainty is pretty much pointless or even actively harmful. You can sometimes reduce your uncertainty about large populations without having any sort of useful uncertainty reduction about the individuals. Let’s say there are 2 countries you’re planning to visit on your holiday, with with exactly 1 million regularly distributed inhabitants each. And we have an absolutely precise criminological survey and we know that country A has one axe murderer and country B has two. So you are twice as likely to be murdered by an axe in country B as you are in country A. Assuming that they are exactly identical in every way, it would make perfect sense to go to country A. But what if country B has beautiful beaches and gorgeous architecture and country A is just a spread of concrete low rises in the desert? Well, you say, sure, I’m still better off knowing. At least I can make an informed decision. But what if the cost of finding out this information was as expensive as your holiday? Or what if it took a whole year off your life to do the survey because you’re the only axe murder measurement expert? And worse still what if somebody in your country read your research and it triggered something evil in them and they now became an axe murderer? When is reducing uncertainty worth it?
+
+But even that is not all. Let’s say you go to both country A and country B and know that there is 1 in a million chance that any one person you encounter will murder you with an axe in country A but in country B, the chance is 2 in a million? How different will the encounters be? How long before you start saying to your friends, don’t go to country B, I was there and everybody looked like an axe murderer. Or, you country A is so much safer than B, they have only half the axe murderers. That’s how stereotypes work. They reduce uncertainty but the reduction is usually not as useful and almost never outweighs the harm done to the thing you’re reducing your uncertainty about.
+
+So even with measurement as an uncertainty reduction tools, you still need to be interrogating your quos for their quids. There is a continuum between uncertainty reduction amounting to common sense knowledge and representing slanderous prejudice.
+
+For instance, a lot fewer than 100% of people in the United States speak English as their first language or even at all. Yet, I’m perfectly happy to say that people in the US speak English and study English if I want to visit. The fact that not every person I encounter while there will speak English is built into the framing of the statement.
+
+But imagine I know that 20 out of 100 people who colour their hair blue are bad at math but 25 out of 100 people who colour their hair green are bad at math. It would seem to make sense to only hire people who dye their hear blue for trainee accountant jobs. But what am I missing out on but not getting some green haired people as well? And what harm am I doing to people with green hair? What information do I have about any of the applicants coming to my door simply based on the colour they chose to use to dye their hair. Almost none. If I’m hiring 100 trainee accountants how much better off am I if I hire all 100 blue or 50 percent of each? I get 20 bad accountants in the first case and 22–23 bad accountants in the second case. How trainee many accountants do I have to hire and what other harms do I have to offset? And what if I’m hiring only one trainee accountant. Should I reject anyone with green streaks in their manes?
+
+Thus reducing one uncertainty introduced another one. And that’s even assuming my measurement is worth a hill of beans.
+
+Let’s take the much agonized over international educational outcomes comparisons. They seem to give us a nice ranking of different countries. From best to worst. But (assuming we can trust the measurement all that well) what does a difference between the top country and the 20th country amount to? Probably nothing. Should a country even pay any attention to going up 5 spots or sliding 10? No, no, NO! All the effort that went into the measurement and all the consequences of the measurement are not worth it. Plus what is that we were uncertain about before? And what is it that we’re uncertain about know? Everyone would have been better of not knowing.
+
+Actually, the various comparisons are fascinating and we coud learn a lot from them.
+
+BUT
+
+This brings us to a bonus third massive problem. You can’t really do very complicated measurement without numbers (or some sort of a numerical or geometric type of symbol). And numbers are magic. They are absolutely certain. So when a number is in sight everybody sits up and takes notice. 25 out of a 100 is more than 23 out of a hundred. That has to mean something! You see now we know. And there are cases when you can make or save enormous amounts of money by knowing that A gives 0.001% less return than B. If you invest 1,000,000,000 in B, you’ve made 1,000,000. But if you only invest 1,000, you’ve made 1. Probably less than the cost of the investment into the measurement itself.
+
+But because we have so many uncertainty reductions available to us all the time, we spend enormous amounts of 1,000s to make make a few 1s.
+
+All because numbers are magic. People (as a whole) have yet to demonstrate that they can behave sensibly in the presence of numbers. Even most mathematicians and scientists. Even me.
+
+The problem is that numbers are precise but only until you start counting things with them. Any process of counting things requires a simplification of the world to make it countable. We are surrounded by examples of where this simplification allowed us feats previously unimagined. The digitisation of music is an example. It only takes bits of the sound wave. But it takes enough to make the reproduction of the sound much better than reproducing actual sound waves (and even if there is some vinyl quality worth keeping, the other benefits such as lossless copying more than make up for it). But there maybe a situation where that simplification is too much. Imagine we’re invaded by aliens who repelled by a particular frequency but the presence of even the most infinitesimally fine sampling in the reproduction of the soundwave negates the effect. Vinyl alien repellers would soon get plenty popular again.
+
+So the sort of simplification done by numbers is extremely useful until it is not. And when we leave the realm of the physical or medical and go into the realm of the social, we can see the usefulness fading pretty fast or the cost of the usefulness become pretty steep.
+
+This is a fairly important corrective to the crowd who say it’s always better to know. I’d say it’s always useful to have the information but not always better to know it.
+
+So did I swing around to the position that we shouldn’t measure anything ever or at least not anything with a social dimension? No. I stand by my initial conviction that we should measure more things more often. But we shoud always question the utility of the uncertainty reduction the measurement provides and be very mindful of the uncertainty that remains — because no matter how many times we’ve measured, we should always feel a little worried when we cut!
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=29bd0d1a2e9)
+
+---
+
+[Quick notes on measurement: Measuring anything and nothing](https://medium.com/metaphor-hacker/quick-notes-on-measurement-measuring-anything-and-nothing-29bd0d1a2e9) was originally published in [Metaphor Hacker](https://medium.com/metaphor-hacker) on Medium, where people are continuing the conversation by highlighting and responding to this story.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Dominik Lukeš — Writing Corpus</title>
+    <link>http://localhost:1313/dominiklukes-llmstxt/tags/science/</link>
+    <description>Recent content in Science on Dominik Lukeš — Writing Corpus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/dominiklukes-llmstxt/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick notes on measurement: Measuring anything and nothing</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2017/quick-notes-on-measurement-measuring-anything-and-nothing/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2017/quick-notes-on-measurement-measuring-anything-and-nothing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1024/1*7DXn-l5lH1F1zmxAUsF-Jg.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;note&#34;&gt;Note:&lt;/h3&gt;&#xA;&lt;p&gt;These were supposed to be quick notes. But they ain’t. Be warned.&lt;/p&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;In a recent &lt;a href=&#34;http://rationallyspeakingpodcast.org/show/rs-197-doug-hubbard-on-why-people-think-some-things-cant-be.html&#34;&gt;Rationally Speaking&lt;/a&gt; podcast Julia Galef and Doug Hubbard discussed the notion of ‘How to Measure Anything’. This is not a screed against daring to assign numerical values. I think we need to start from the premise that everything that Juia and Doug said is correct. However, I want to show that even with that premise, the intuitive objections to assigning numerical values to human values are still necessary. And in fact, if we object on these grounds, we can see that in fact we can measure nothing while we can still benefit from using tools of measurement to think about complex problems. But these tools are metaphors about those problems — they are not describing some hidden true essence — they are giving us a way of thinking about them. And as with any metaphors, we need to reject them as often as take them for our own.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018s on Dominik Lukeš — Writing Corpus</title>
+    <link>http://localhost:1313/dominiklukes-llmstxt/2018/</link>
+    <description>Recent content in 2018s on Dominik Lukeš — Writing Corpus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/dominiklukes-llmstxt/2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cats and butterflies: 2 misunderstood analogies in scientistic discourse</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/cats-and-butterflies-2-misunderstood-analogies-in-scientistic-discourse/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/cats-and-butterflies-2-misunderstood-analogies-in-scientistic-discourse/</guid>
+      <description>&lt;p&gt;Butterfly effect and Schrödinger’s cat are 2 very common ways of signalling one’s belonging to the class of the scientifically literate. But they are almost always told wrong. They were both constructed as illustrations of paradoxes or counterintuitive findings in science. Their retelling always misses the crucial ‘as if’.&lt;/p&gt;&#xA;&lt;p&gt;This is an example of metaphor becoming real through its sheer imagistic and rhetorical power. But it also underscores the need to carefully investigate both domains being mapped onto each other, as well as the act of mapping. Metaphors used generatively are only useful if they are abandoned quickly enough. In this case, the popular imagination not only did not abandon the metaphor, it made it into a literal statement with practical consequences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 burning issues in the study of metaphor</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/3-burning-issues-in-the-study-of-metaphor/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/3-burning-issues-in-the-study-of-metaphor/</guid>
+      <description>&lt;p&gt;I’m not sure how ‘burning’ these issues are as such but if they’re not, I’d propose that they deserve to have some kindling or other accelerant thrown on them.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;What is the interaction between automatic metaphor processing and deliberate metaphor application?&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Metaphors have always been an attractive subjects of study. But they have seen an explosionof interest since ‘Metaphors we live by’ by Lakoff and Johnson. In an almost Freudian turn, these previously seemingly superfluous baubles of language and mind, became central to how we think and speak. All of a sudden, it appeared that metaphors reveal something deeper about our mind that would otherwise remain hidden from view.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 “easy” things that are hard for both humans and AI</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/3-easy-things-that-are-hard-for-both-humans-and-ai/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/3-easy-things-that-are-hard-for-both-humans-and-ai/</guid>
+      <description>&lt;p&gt;Everybody is agog at what AI systems can do. Nobody thought even 10 years ago that machines could be trained to recognise images or transcribe natural speech as well as they do now. And because of this leap forward everybody has started worrying about AI taking over the world because it will soon be able to do everything people can but better.&lt;/p&gt;&#xA;&lt;p&gt;On the other hand, there are AI naysayers who point at incredible feats of human creativity and ingenuity and say ‘no machines will ever be able to write a poem’ or ‘manage a company’.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovation is bad for business: 3 more ‘I’ words to compare innovation to</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/innovation-is-bad-for-business-3-more-i-words-to-compare-innovation-to/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/innovation-is-bad-for-business-3-more-i-words-to-compare-innovation-to/</guid>
+      <description>&lt;p&gt;Innovation is the ‘in’ thing. Innovate or die is the buzz up and down the hive mind. Everybody is feeling like they must innovate all of the things all of the time. But is the incessant innovation the right mode of approaching this?&lt;/p&gt;&#xA;&lt;p&gt;We constantly spin up stories of the intrepid innovator and the change they bring about in the world. But is that what is really happening on the ground? I think we can bring up some metaphors to bear on this that may open up some different possibilities of conceptualizing innovation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does machine learning produce mental representations?</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/does-machine-learning-produce-mental-representations/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/does-machine-learning-produce-mental-representations/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why is this important? Many people believe that mental representations are the next goal for ML and a prerequisite for AGI.&lt;/li&gt;&#xA;&lt;li&gt;Does machine learning produce mental representations equivalent to human ones in kind (if not in quality or quantity)? Definitely not, and there is no clear pathway from current approaches to a place where it would. But it is worth noting that mental representations in humans are also not something straightforward to identify or describe.&lt;/li&gt;&#xA;&lt;li&gt;Is there a currently viable approach to ML that could eventually lead to mental representations with more engineering? It appears not but then again, no one expected neural nets would get so successful.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Further &lt;strong&gt;&lt;a href=&#34;http://metaphorhacker.net/2018/05/does-machine-learning-produce-mental-representations/&#34;&gt;discussion on Reddit&lt;/a&gt;****.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Not ships in the night: Metaphor and simile as process</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/not-ships-in-the-night-metaphor-and-simile-as-process/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/not-ships-in-the-night-metaphor-and-simile-as-process/</guid>
+      <description>&lt;p&gt;In some circles (rhetoric and analytics philosophy come to mind), much is made of the difference between metaphor and simile.&lt;/p&gt;&#xA;&lt;p&gt;(Rhetoricians pay attention to it because they like &lt;a href=&#34;https://en.wikipedia.org/wiki/Figure_of_speech&#34;&gt;taxonomies&lt;/a&gt; of communicative devices and analytic philosophers spend time on it because of their commitment to &lt;a href=&#34;https://en.wikipedia.org/wiki/Truth-conditional_semantics&#34;&gt;a truth-theoretical account of meaning&lt;/a&gt; and naive assumptions about compositionality).&lt;/p&gt;&#xA;&lt;p&gt;It is true that their surface and communicative differences have an impact in certain contexts but if we’re interested in the conceptual underpinnings of metaphor, we’re more likely to ignore the distinction altogether.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to read ‘Women, Fire and Dangerous Things’: Guide to essential reading on human cognition</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/how-to-read-women-fire-and-dangerous-things-guide-to-essential-reading-on-human-cognition/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/how-to-read-women-fire-and-dangerous-things-guide-to-essential-reading-on-human-cognition/</guid>
+      <description>&lt;h2 id=&#34;note&#34;&gt;Note:&lt;/h2&gt;&#xA;&lt;p&gt;These are rough notes for a metaphor reading group, not a continuous narrative. Any comments, corrections or elaborations are welcome.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-should-you-read-wfdt&#34;&gt;Why should you read WFDT?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Women, Fire, and Dangerous Things: What Categories Reveal About the Mind&lt;/strong&gt; is still a significantly underappreciated and (despite its high citation count) not-enough-read book that has a lot to contribute to thinking about how the mind works.&lt;/p&gt;&#xA;&lt;p&gt;I think it provides one of the most concise and explicit models for how to think about the mind and language from a cognitive perspective. I also find its argument against the still prevalent approach to language and the mind as essentially fixed objects very compelling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Therapy for Frege: A brief outline of the theory of everything</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/therapy-for-frege-a-brief-outline-of-the-theory-of-everything/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/therapy-for-frege-a-brief-outline-of-the-theory-of-everything/</guid>
+      <description>&lt;h2 id=&#34;freges-trauma&#34;&gt;Frege’s trauma&lt;/h2&gt;&#xA;&lt;p&gt;I found the following quote from Frege on the &lt;a href=&#34;http://languagegoesonholiday.blogspot.co.uk/2018/05/fixing-frege.html&#34;&gt;Language goes on holiday blog&lt;/a&gt; and it struck as the perfect starting point for this essay which has been written for a while now:&lt;/p&gt;&#xA;&lt;p&gt;“Frege (“Logic in Mathematics”): Definitions proper must be distinguished from elucidations [Erläuterungen]. In the first stages of any discipline we cannot avoid the use of ordinary words. But these words are, for the most part, not really appropriate for scientific purposes, because they are not precise enough and fluctuate in their use. Science needs technical terms that have precise and fixed Bedeutungen, and in order to come to an understanding about these Bedeutungen and exclude possible misunderstandings, we provide elucidations. Of course in so doing we have again to use ordinary words, and these may display defects similar to those which the elucidations are intended to remove. So it seems that we shall then have to provide further elucidations. Theoretically one will never really achieve one’s goal in this way. In practice, however, we do manage to come to an understanding about the Bedeutungen of words. Of course we have to be able to count on a meeting of minds, on others’ guessing what we have in mind.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 ways in which music is like language and 8 (more important) ways in which it is not</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/10-ways-in-which-music-is-like-language-and-8-more-important-ways-in-which-it-is-not/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/10-ways-in-which-music-is-like-language-and-8-more-important-ways-in-which-it-is-not/</guid>
+      <description>&lt;p&gt;People often talk about music as if it were language. Leonard Bernstein even recorded a series of lectures applying &lt;a href=&#34;https://www.youtube.com/watch?v=MB7ZOdp__gQ&#34;&gt;Chomsky’s theory of generative grammar to music&lt;/a&gt;. &lt;a href=&#34;https://www.youtube.com/watch?v=Kojvij-PNq8&#34;&gt;Chomsky himself&lt;/a&gt; answered a question on this in a not very satisfying manner. Some people can get very exercised over this.&lt;/p&gt;&#xA;&lt;p&gt;But it seems to me that a playing around with strengths and weakness of the music = language metaphor can help us come to grips with the question a bit better. We can find a number of mappings between music and language but an equal number of mis-mappings. We do not need to go very far into it to see where they are. That does not mean that a deeper investigation into musical properties of language and linguistic properties of music cannot be fruitful. And obviously they are both universal human faculties — but looking for a musical essence in language or a linguistic essence in music is what a metaphor-aware approach to this question is hoping to warn against.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 ways in which music is like language and 8 (more important) ways in which it is not</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/10-ways-in-which-music-is-like-language-and-8-more-important-ways-in-which-it-is/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/10-ways-in-which-music-is-like-language-and-8-more-important-ways-in-which-it-is/</guid>
+      <description>&lt;p&gt;People often talk about music as if it were language. Leonard Bernstein even recorded a series of lectures applying &lt;a href=&#34;https://www.youtube.com/watch?v=MB7ZOdp__gQ&#34;&gt;Chomsky’s theory of generative grammar to music&lt;/a&gt;. &lt;a href=&#34;https://www.youtube.com/watch?v=Kojvij-PNq8&#34;&gt;Chomsky himself&lt;/a&gt; answered a question on this in a not very satisfying manner. Some people can get very exercised over this.&lt;/p&gt;&#xA;&lt;p&gt;But it seems to me that a playing around with strengths and weakness of the music = language metaphor can help us come to grips with the question a bit better. We can find a number of mappings between music and language but an equal number of mis-mappings. We do not need to go very far into it to see where they are. That does not mean that a deeper investigation into musical properties of language and linguistic properties of music cannot be fruitful. And obviously they are both universal human faculties — but looking for a musical essence in language or a linguistic essence in music is what a metaphor aware approach to this question is hoping to warn against.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>17 Things Everyone Should Know About Language But Doesn’t Even Know to Ask</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/17-things-everyone-should-know-about-language-but-doesnt-even-know-to-ask/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/17-things-everyone-should-know-about-language-but-doesnt-even-know-to-ask/</guid>
+      <description>&lt;p&gt;Languages are not a simple matter of grammar. Any language policy must consider what is known about language from the fields of pragmatics, sociolinguistics, and cognitive linguistics. Here I collected, 17 key findings about language from across many fields of linguistic inquiry. These are descriptive things we know with some certainty about how language works.&lt;/p&gt;&#xA;&lt;p&gt;Who should know these things? Everyone would be a nice thing but in the absence of that, I’d settle for some of these: Teachers and especially language teachers. Journalists. Language policy experts. And (and here we’re just praying for a miracle) grammar mavens.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fruit loops and metaphors: Metaphors are not about explaining the abstract through concrete but…</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/fruit-loops-and-metaphors-metaphors-are-not-about-explaining-the-abstract-throug/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/fruit-loops-and-metaphors-metaphors-are-not-about-explaining-the-abstract-throug/</guid>
+      <description>&lt;h3 id=&#34;fruit-loops-and-metaphors-metaphors-are-not-about-explaining-the-abstract-through-concrete-but-about-the-dynamic-process-of-negotiated-sensemaking&#34;&gt;Fruit loops and metaphors: Metaphors are not about explaining the abstract through concrete but about the dynamic process of negotiated sensemaking&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/960/1*_T0MTlgi3p0CjzWNmCYDIg.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the less fortunate consequences of the popularity of the conceptual metaphor paradigm (which is also the one I by and large work with) is the highlighting of the embodied metaphor at the expenses of others. This gives the impression that metaphors are there to explain more abstract concepts in terms of more concrete ones.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning vs training in machines and organizations: Production of knowledge vs production of…</title>
+      <link>http://localhost:1313/dominiklukes-llmstxt/2018/learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-pr/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dominiklukes-llmstxt/2018/learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-pr/</guid>
+      <description>&lt;h3 id=&#34;learning-vs-training-in-machines-and-organizations-production-of-knowledge-vs-production-of-capabilityexploration-of-metaphors&#34;&gt;Learning vs training in machines and organizations: Production of knowledge vs production of capability — Exploration of metaphors&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1024/1*EAv0CPYrJ99vgSIkp-jnJg.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;machine-learning-is-to-organizational-learningas&#34;&gt;Machine learning is to organizational learning as…&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://www.sbs.ox.ac.uk/school/events-0/david-upton-memorial-lecture&#34;&gt;recent lecture by Gary Pisano&lt;/a&gt; made the parallel between machine learning and organizational learning in the sense that they are both processes that produce knowledge. My immediate reaction was that they are not alike because machine learning is really a misnomer. Or rather machine learning has some aspects of learning but is dissimilar from prototypical learning in enough ways to make the analogy dangerous. But my second thought was that actually organizational learning and prototypical learning are dissimilar in the same ways that machine learning and prototypical learning are. We could then learn more about both if we look at the various mappings and mismappings (a sort of metaphor hack).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
