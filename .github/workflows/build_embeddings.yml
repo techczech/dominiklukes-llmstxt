@@ -17,12 +17,20 @@ concurrency:
 
 jobs:
   embeddings:
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    # Run if main workflow succeeded OR if manually triggered OR if OpenAI key is available
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion != 'failure' && github.event_name != 'workflow_dispatch') }}
     runs-on: ubuntu-latest
     env:
       REPO: ${{ github.workspace }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
+      - name: Debug workflow trigger
+        run: |
+          echo "Event name: ${{ github.event_name }}"
+          echo "Workflow run conclusion: ${{ github.event.workflow_run.conclusion }}"
+          echo "OpenAI API key present: ${{ secrets.OPENAI_API_KEY != '' }}"
+          echo "Repository: ${{ github.repository }}"
+          
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -47,9 +55,20 @@ jobs:
           pip install --no-cache-dir openai tqdm ujson numpy faiss-cpu
 
       - name: Build embeddings & FAISS index
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
+          # Check if OpenAI API key is available
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "⚠️  OpenAI API key not set - skipping embeddings generation"
+            echo "To enable embeddings, add OPENAI_API_KEY to repository secrets"
+            
+            # Create placeholder files so artifacts don't fail
+            mkdir -p dataset
+            echo '{"message": "OpenAI API key required for embeddings"}' > dataset/embeddings_placeholder.json
+            
+            exit 0
+          fi
+          
+          echo "🔑 OpenAI API key found - generating embeddings"
           set -e
           python scripts/build_embeddings.py
 
@@ -65,3 +84,5 @@ jobs:
             dataset/faiss.index
             dataset/faiss_ids.json
             dataset/embeddings.jsonl
+            dataset/embeddings_placeholder.json
+          if-no-files-found: ignore
