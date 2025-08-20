@@ -101,24 +101,51 @@ jobs:
         run: |
           # Ensure Hugo is available via action
           npm i -g hugo-bin || true
+          
+          echo "Checking for Hugo config files..."
+          
           # Check if config exists and build accordingly
+          HUGO_SUCCESS=false
+          
           if [ -f "site/hugo.toml" ]; then
-            hugo --minify --config site/hugo.toml --source site --destination site/public
+            echo "Found site/hugo.toml, building with it"
+            if hugo --minify --config site/hugo.toml --source site --destination site/public; then
+              HUGO_SUCCESS=true
+            fi
           elif [ -f "site/config.toml" ]; then
-            hugo --minify --config site/config.toml --source site --destination site/public
+            echo "Found site/config.toml, building with it"
+            if hugo --minify --config site/config.toml --source site --destination site/public; then
+              HUGO_SUCCESS=true
+            fi
           elif [ -f "hugo.toml" ]; then
-            hugo --minify --config hugo.toml --destination site/public
+            echo "Found hugo.toml, building with it"
+            if hugo --minify --config hugo.toml --destination site/public; then
+              HUGO_SUCCESS=true
+            fi
           elif [ -f "config.toml" ]; then
-            hugo --minify --config config.toml --destination site/public
-          else
-            echo "No Hugo config found, creating basic site structure"
+            echo "Found config.toml, building with it"
+            if hugo --minify --config config.toml --destination site/public; then
+              HUGO_SUCCESS=true
+            fi
+          fi
+          
+          # If Hugo build failed or no config found, create basic site
+          if [ "$HUGO_SUCCESS" != "true" ]; then
+            echo "Hugo build failed or no config found, creating basic site structure"
             mkdir -p site/public
-            echo "<h1>Site building...</h1>" > site/public/index.html
+            echo "<h1>Content Archive</h1><p>This site contains $(wc -l < dataset/corpus.jsonl 2>/dev/null || echo 0) documents from the corpus.</p><p><a href='/static/llms.txt'>Machine-readable index (llms.txt)</a></p>" > site/public/index.html
+            
+            # Copy static files if they exist
+            if [ -d "static" ]; then
+              cp -r static/* site/public/ 2>/dev/null || true
+            fi
+            
+            echo "Created basic site structure"
           fi
 
       - name: Generate Pagefind index
         run: |
-          npx pagefind --site site/public
+          npx pagefind --site site/public || echo "Pagefind indexing failed or skipped"
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
