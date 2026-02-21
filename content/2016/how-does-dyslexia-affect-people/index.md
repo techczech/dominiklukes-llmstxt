@@ -1,0 +1,43 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/page/how-does-dyslexia-affect-people-0
+date: '2016-07-14'
+id: da-20160714-how-does-dyslexia-affect-people
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: How does dyslexia affect people?
+---
+
+Dyslexia affects people in various ways at different times in a person’s life.
+
+Dyslexia makes some things harder to learn – it puts barriers in the way of progress. But, almost always, those barriers can be overcome, especially with the right kind of help and support.
+
+It is wrong to think of dyslexia as just a reading problem. Many people with dyslexia can become quite good readers, whilst others may read slowly with inaccuracies. Usually, the most persistent difficulty is with spelling.
+
+It is also wrong to think of dyslexia as just a problem with written words. Many, but not all, can also experience some difficulty with spoken words, especially coming up with a specific name or date when under pressure of time, or remembering a list or sequence of spoken words such as a telephone number.
+
+See our ‘What are the signs?’ page for a list of indicators.
+
+For many adults with dyslexia, it is issues with short-term memory and speed of processing that are more frustrating than issues with reading or spelling. When these difficulties are more severe, they can cause problems with:
+
+keeping track of conversations
+following instructions
+expressing a point of view
+
+Some, on the other hand, do very well using spoken words, but have severe problems when writing or reading accurately.
+
+Should I seek help?
+
+Many people who are dyslexic have had good support and encouragement and have not been held back at school or work. If things are progressing well there is no need to seek help.
+
+If there are concerns about progress, or frustrations about difficulties or mistakes that are made in every-day life, then do seek advice. With the right help and support, strategies to overcome difficulties associated with dyslexia can be learnt and dyslexia need not be a barrier to achievement. Find out how Dyslexia Action can help and about the other support available.
+
+Did you know?
+
+With one in 10 of the population estimated to have dyslexia, more than 6.3 million people in the UK are potentially affected by dyslexia.
+
+Learning tools are something that you can purchase to help you or your child at home, to help with the difficulties you or they may face.

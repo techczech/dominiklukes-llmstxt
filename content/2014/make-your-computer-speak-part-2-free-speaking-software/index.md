@@ -1,0 +1,123 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/make-your-computer-speak-part-2-free-speaking-software
+date: '2014-06-26'
+id: da-20140626-make-your-computer-speak-part-2-free-speaking-software
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: 'Make your computer speak Part 2 : Free speaking software'
+---
+
+What is this about
+
+This is the second post in a 5-part series on making your computer speak using Text-to-Speech technology. The five parts will be:
+
+Part 1: Getting started
+Part 2: Free speaking software
+Part 3: Commercial speaking software
+Part 4: Text-to-speech voices
+Part 5: Text-to-speech on mobile devices
+
+You can get an overview of the whole series, including links in this mind map.
+
+In this second part, we will have a look at some free software you can use to make your computer speak.
+
+WordTalk
+
+If your primary word processor is Microsoft Word, then WordTalk is the choice for you. It is a Word plug-in that will:
+
+Read out text in Word while highlighting it word by word or sentence by sentence.
+Save text as MP3 files (both selected parts and the whole text)
+Echo what you type (must be enabled in options)
+Read words on doubleclick (must be enabled in options)
+
+WordTalk is hidden under the AddIns tab and can be controlled by buttons. But frequent users will want to enable keyboard shortcuts.
+
+I use WordTalk frequently when proofreading my own writing. I have it read the text paragraph by paragraph, and then go back when I notice any problems. You can also ask it to read sentence by sentence, a selection, or the whole text.
+
+The only downside of WordTalk when compared with some commercial rivals is that the interface is rather ugly and occasionally confusing when you start out. But it only takes a few minutes to get used to it.
+
+It also very occasionally gets behind on highlighting when you jump about a lot.
+
+Installing WordTalk
+
+While WordTalk is really easy to use (despite the interface), the install process is really something to know about. It has to be installed in two steps.
+
+First, you double click on the downloaded file and go through the install process. But this only installs the plugin installer, so you have to go to step 2.
+Second, open the installed WordTalk software and only then you will be asked to add WordTalk to Word.
+
+Remember, to restart Word or your computer. Occasionally, I found that if at first you don’t succeed, uninstall WordTalk and install it again. It usually works eventually.
+
+Read the Installation Guide for details.
+
+Balabolka
+
+Balabolka is a favourite of Ian Smythe’s and I also use it a lot. You have to copy text into it but it will also open PDFs and Word Documents. But it strips out any formatting so it’s not as useful as Word Talk for proofreading.
+
+Balabolka is great for testing voices because it puts the voice selection setting right in your face.
+
+But the real strength of Balabolka is its powerful MP3 conversion functionality. It is definitely worth reading the help file and getting to know it. Particular strengths are:
+
+Save even long texts into MP3 really quickly
+Split text into multiple MP3 files by any parameter you want
+Mark parts of text to be read out by different voices
+Mark parts of text to be read out differently (such as being spelled out)
+
+NaturalReader Free
+
+I recommended NaturalReader Free as the best software to start with in the first part. But if you don’t need advanced features such as saving text as MP3, you may find that you want to stick with NaturalReading for basic reading. You can also have it installed alongside Balabolka.
+
+NaturalReader does not highlight the words in the selected text but if you expand the Floating bar using a button in the bottom right, you can see each word highlighted as it is read.
+
+Browser Plugins
+
+If you want your computer to read out text you see on a webpage, you have several options.
+
+Select the text on the webpage and click play on the NaturalReader Free Floating bar.
+Copy and paste the text into Balabolka or Word to play with WordTalk.
+Install a browser plugin. Then select text and play.
+
+Browsealoud PC (Firefox and Internet Explorer)
+
+Browsealoud PC is not really a plugin. It is software that also plugs into your browser. Unlike any other options, it actually highlights the text as it reads it out in the page.
+
+It lives in the notification area of the task bar on your computer and can be activated from there. Once you have the toolbar active, simply select some text on a page and hit the play button.
+
+Unfortunately, I’ve not been able to install it on any of my Windows 8 machines. Also, it’s not compatible with the Chrome browser. But on the other hand, it’s the only option if you use Internet Explorer.
+
+Chrome Plugins
+
+I’ve tried three Chrome plugins. They all work but none of them are all that great. Let me know if you use an alternative.
+
+Select and speak
+SpeakIt (slow)
+ChromeSpeak (fastest)
+
+Firefox Plugins
+
+I found two Firefox plugins. Again, they work, but do not set the world on fire with great functionality.
+
+Other Software
+
+
+
+DSpeech – Most often given as an alternative to Balabolka. Does not have to be installed and can be run from a memory stick.
+Orato – Very lightweight and distributed with the MyStudyBar
+NVDA – Designed for blind computer users, it will read out everything on the screen. Takes a long time to learn and can be distracting. But it will read everything.
+VoiceOver on MacOS – There isn’t much free software on the Mac but the built in VoiceOver with several default voices will be sufficient for most users.
+
+If there’s text-to-speech software you like to use, please let us know.
+
+Note
+
+All of the software mentioned in this article is free. But for some reason there is no useful Open Source text-to-speech software. This means that only the original author can make changes to the software code and that coders cannot use each others’ code to learn from their mistakes. Since none of the solutions, I described are perfect, I think there’s a great opportunity here for programmers looking to make a mark in the Open Source world.
+
+Try this page in text to speech
+
+Listen to an audio of this post as read by Hazel from Windows 8:
+
+Note: Watch this video before you download and install any free software.

@@ -1,0 +1,91 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/which-e-reader-right-you-christmas
+date: '2013-12-05'
+id: da-20131205-which-e-reader-is-right-for-you-this-christmas
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: Which E-reader is right for you this Christmas?
+---
+
+Now that Christmas is just around the corner you may be considering the latest models in e-readers and tablets for your loved ones this year.
+
+With Text-to-speech software, built in dictionaries and variable fonts and sizes they are proving particularly popular for those with reading difficulties. Researchers believe they can make reading text much easier due to shorter lines which present fewer words with results including increases in reading speed and better comprehension.
+
+However, with many different brands on the market, each offering something slightly unique it can be difficult to know which to buy and so we asked our Education and Technology Specialist for his advice.
+
+Questions and Answers
+
+There are two broad types of devices on which you can read books. Dedicated e-readers with e-ink screens (like the Kindle) and multipurpose devices like tablets (but also phones and computers) that also let you read books. To help you choose the right device for you, ask yourself these questions:
+
+Do you want the device to read out books, articles and webpages to you via text to speech?
+
+
+
+Yes: You need a tablet or a smart phone. Nexus 7, Galaxy Tab 7 or 8, Kindle Fire, or the iPad Mini are all good choices, here.
+No: A dedicated e-ink e-reader device like the Kindle, Kindle Paperwhite or the Kobo would be good for you. The old Kindle Keyboard also had text-to-speech but it is now only available second-hand.
+
+Are you bothered by the reflection on screen?
+
+
+
+Yes: You should look at a dedicated e-ink e-reader like the Kindle Paperwhite. You can also read it in bright sunlight.
+No: A tablet or a smartphone would be a good choice. But you will be limited in bright sunlight.
+
+Do you want to change the colour of the background or the font?
+
+
+
+Yes: You will need to use a tablet or a smartphone. A tablet will allow you complete control over the display of text because the screen can display a full range of colours.
+No: A dedicated e-reader uses an e-ink screen that can only display shades of grey. Some e-readers (such as the Kindle Paperwhite or the Kobo Aura) let you change the contrast but you will still only be dealing with shades of grey and white. By default e-reader screens are slightly off white with a very dark grey font, a contrast suitable for many dyslexic readers. However, it is possible to use a colour overlay with an e-ink e-reader just like with paper.
+
+Do you want to read in the dark without a lamp (for instance before going to bed)?
+
+
+
+Yes: Here you have two options. You can use a tablet or phone which always has a backlit screen. In this case, you may want to reduce the screen brightness to reduce the strain on your eyes. Or you can buy an e-reader with an illuminated screen. These include the Kindle Paperwhite and the Kobo Aura which both light the screen from the side to achieve an always bright effect without glare or sunlight sensitivity.
+No: Any e-reader will be suitable. Most traditional e-readers (e.g. the cheapest Kindle, Kobo or Sony Reader) rely on e-ink which simulates paper by being reflective and just like paper require an external light source. The more expensive e-reader models have included illumination to have the best of both worlds.
+
+Does a really long battery life matter?
+
+
+
+Yes: Dedicated e-reader can last several weeks on one charge. You can take it on holiday and forget a charger.
+No: A tablet or a smartphone will only last up to a day (6-8 hours of reading) between charges (assuming you don't do anything else on it). You will need to plug it in overnight.
+
+Do you also want to use the device for other things like browsing the Internet, watching videos or playing games?
+
+
+
+Yes: A tablet or a smartphone are your only options.
+No: A dedicated e-reader will be enough. Some Kindle versions will be able to access Wikipedia but that’s about it for browsing. Definitely no music or video.
+
+Do you only buy e-books from one online source like Amazon, Waterstones or WH Smith?
+
+
+
+Yes: Because most e-books sold are copy-protected, you have to buy a dedicated e-reader that supports the right copy-protection scheme. Kindles can only read books bought on Amazon and books from Amazon can only be read on Kindles. Sony Reader, Kobo or Cybook will read books bought from WH Smith or Waterstones but not from Amazon. You can read free books and your own documents on any reader.
+No: If you buy copy-protected ebooks from multiple sources, you will have to buy a tablet or a smartphone and install a free app for each bookstore.
+
+Will price be the deciding factor?
+
+
+
+Yes: Generally, dedicated e-readers are cheaper. Even the most expensive e-reader will be slightly cheaper than the tablet. The cheapest Kindle costs £69 with occasional deals and you can find an e-ink e-reader under £50, such as Nook Simple Touch, currently being sold at Curry’s for £30. There are some cheap tablets out there for less than £100 but you should read some independent reviews before you buy one.
+No: If price is not a concern, currently the best in class are Kindle Paperwhite and Kobo Aura in the e-reader category and Nexus 7, Kindle Fire HDX and iPad Mini in the tablet category.
+
+Examples of E-Readers
+
+There are many e-readers and tablets out there but here are a handful of examples in each category that should be safe to buy. Tablets are only included in the 7-8 inch screen sizes which are most suitable for reading.
+
+E-Readers: Kindle, Kobo, Sony Reader
+
+Illuminated E-Readers: Kindle Paperwhite, Kobo Aura, Nook Glowlight
+
+Tablets: Nexus 7, iPad Mini, Galaxy Tab 7 or 8, Tesco Hudl, Kindle Fire, Fire HD, and Fire HDX
+
+For more information check the RNIB guides to eBooks.

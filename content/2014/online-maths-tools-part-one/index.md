@@ -1,0 +1,69 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/online-maths-tools-part-one
+date: '2014-01-23'
+id: da-20140123-online-maths-tools-part-one
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: Online Maths Tools - Part One
+---
+
+Introduction: Doing maths without installing software
+
+People have asked for some information about maths tools. This post will show you how to get help with maths with simple but powerful online tools.
+
+From the beginning of computers, there have been countless calculators and converters, and they are still very common apps on phones. But you don’t really need any software. All you need is access to the internet and then run a simple search. You can choose between:
+
+Google for simple calculations and conversions ORWolframAlpha for advanced maths and research about numbers around us
+
+Google calculator and converter
+
+Google has a lot of hidden goodies for people who:
+
+Can’t do maths in their head very easily
+Need to do conversions
+Can’t find a calculator in a hurry
+
+How to use Google as a calculator?
+
+How do you use Google to come up with the right answer to your maths question? Easy! Simply, search for it. Need to know how much is 50 times 243? Just search for 50 \* 243 and Google will come up with an answer for you:
+
+Google will then helpfully display a calculator that you can use for more number fun.
+
+You can even search for more complicated things like ((435+32)\*32)/3.
+
+But Google can do even things that calculators can’t do. It can work out what you’re saying. So instead of trying to remember how to do percentages, you can just type in a question in words: 34 percent of 56 or square root of 45.
+
+The best thing about the Google calculator is that it is intuitive. You should be able to guess which symbols to use and how to type in your questions. On the phone, you can even use speech recognition. But if you can’t work it out, there is the Help section that explains all.
+
+Google will even plot simple graphs such as y=2 \* x.
+
+But to actually solve equations, you’ll need to use Wolfram Alpha which will be explained next time.
+
+How to use Google as converter
+
+But the power of Google doesn’t stop at simple number crunching. It can also be used for converting units. Again, all you have to do is type in your question. Here are some examples:
+
+1 meter in feet
+400 miles in km
+4 stone in kilos
+3 litres in pints
+31 celsius in farenheit
+5MB in bits
+
+When you travel, you will find it useful to find out the approximate current conversion rate.
+
+5 Pounds in Euros
+1 USD in GBP
+
+As you can see, Google will even helpfully show you recent trends in the exchange rate. Of course, the exchange rate you get from a bank will be slightly different but this will give you a good idea what to expect.
+
+You can take your maths searches to the next level with WolframAlpha which we will look at in the next installment of Tech Thursday.
+
+Dominik Lukes - Education and Technology Specialist
+
+Note: Watch this video before you download and install any free software.
