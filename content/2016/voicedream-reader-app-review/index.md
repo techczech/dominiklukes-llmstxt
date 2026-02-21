@@ -1,0 +1,118 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/voicedream-reader-app-review
+date: '2016-07-07'
+id: da-20160707-voicedream-reader-app-review
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: VoiceDream Reader App Review
+---
+
+What is this about
+
+This is a post in part of an extended series on speech-assisted reading on mobile devices (I call it STAR for speech-and-tablet-assisted reading).
+
+In this post, we will review VoiceDream Reader, the most complete dyslexia-friendly reader app for iPads, iPhones and Android tablets.
+
+Overview
+
+VoiceDream Reader is the most feature complete reader app aimed at readers with dyslexia or anybody who likes to use text-to-speech to read their books and other texts.
+
+Its creators have thought of almost every possible feature somebody reading a book with the assistance of speech might want. What’s more, the interface is really clean and easy to use.
+
+By the pricing standards of apps, Voice dream reader is relatively expensive, but it still only costs £8.
+
+Voice dream reader was first created for the iPad but is now also available on Android. But the iPad and iPhone version receives new features and updates first. The Android version is still very good but in this review we will focus on the iPad. I will note if there is an important difference between Android and iPad when necessary.
+
+Key features
+
+The key features of voice dream reader are:
+
+Reading with speech options
+Reading websites and e-books in many formats
+PDF handling
+Downloading books directly from Bookshare and other e-book repositories
+Integration with GoogleDocs, Dropbox, or even Evernote and Instapaper
+
+Speech-assisted reading
+
+Reading with text-to-speech is the key function of VoiceDream Reader. And it performs it really well.
+
+At the bottom of the screen, you can use the play button and the skip buttons. But you can also use your fingers.
+
+Double tapping anywhere in the text will start reading from that position
+Swiping down with 2 fingers will pause or start play
+Swiping left or right with 2 fingers will jump back or forward in the playback
+
+You can set the skip buttons to move you back by a set time, the word, or a sentence.
+
+You can also choose what is being highlighted. You can highlight the line, or the word that is being read, or both.
+
+And you can choose how much text you see at once. This could be one, 3, or 5 lines. This is a great feature for people with dyslexia or people with attention difficulties.
+
+Another way to make following the text easier while it’s being read out is to set VoiceDream Reader to always keep the highlighted line in the middle of the screen. This means that your eyes don’t have to hunt for the cursor.
+
+Another great feature that has only just been added is called Finger Reading. Simply tap and hold a word and it will be read out. If you keep your finger on the word and slide it to the next word and then the next, you can have the text read out word by word at your own pace.
+
+Reading websites and other documents
+
+One of the great things about VoiceDream Reader is that it supports more than just e-books. It can open documents in almost any format including audiobooks.
+
+Many people might want to use it to read websites. The best way to do that is to use the share button in the browser and share the page the VoiceDream Reader. But there is a built in legacy browser from previous versions that people could use.
+
+Handling PDFs
+
+PDFs are always a problem if you want to read them with speech. This is because their formatting does not make it clear which bits should be read out. This is especially difficult with academic articles that have long headers and footers. And a speech reader will read them out right after the last word on the previous page.
+
+VoiceDream Reader has a feature to help with that that will allow you to cut off the header and the footer. This is similar to @Voice Aloud reader that we looked at last week.
+
+Another problem with PDFs is that they are often formatted in such a way that viewing the full page on the phone or even an 8 inch tablet makes the letters too small. For that, and app needs to implement a Reflow feature. VoiceDream Reader does this really well with its plain text mode.
+
+Downloading books directly from Bookshare and other repositories
+
+VoiceDream lets you download books directly from online repositories. The most important ones are:
+
+Project Gutenberg with free out of copyright e-books
+Bookshare with books in accessible formats aimed at users with dyslexia and visual impairments
+
+Integration with Dropbox and others
+
+Another way to get books into VoiceDream Reader is through cloud file sharing services such as Dropbox or Google Drive. But you can also connect it to Evernote or Instapaper.
+
+If you use Google Drive, VoiceDream Reader will even open GoogleDocs by converting them to PDF.
+
+Other features
+Playlists and folders
+
+If you have a lot of short texts you can put them in a folder which will then work as a playlist. Under the mode button in the top left corner, you can choose what happens when you come to the end of the document.
+
+Pac-Man mode for reading
+
+Under the formatting settings menu, you can enable a so-called Pac-Man mode. That will delete the text as it is being read out. This both reduces distractions and, at least according to VoiceDream Reader, can increase your reading fluency over time.
+
+Chapter navigation with automatic speech
+
+Any e-reader will let you jump from chapter to chapter or section to section. But VoiceDream Reader will start reading as soon as you hit the chapter button. This may not seem like much but if you jump around the text aloud, it will make things a lot easier.
+
+What’s missing
+
+There were only 2 features that I found missing from voice dream reader:
+
+Support for DRM in e-books: this would make it possible to read books from public libraries or both purchased in some bookstores.
+Page turning: the only way to read a book in VoiceDream Reader is to scroll down as in a webpage. This is fine but many people prefer to be able to turn pages as if they were reading a book. Most reader apps have these settings.
+
+VoiceDream Reader also currently does not support RNIB Bookshare but hopefully will soon.
+
+Conclusion
+
+VoiceDream Reader is simply the best example of how to do text-to-speech in an app for reading. In this review, I focused only on the most important features and scanned things such as font formatting or highlighting that can be found in any standard reader. But even these are implemented well with a focus on people with literacy difficulties.
+
+Next: Reading news with speech
+
+Next time, we will look at some apps that can be used to read news with the assistance of speech.
+
+Tech Thursday is written by Dominik Lukes - Education and Technology Specialist

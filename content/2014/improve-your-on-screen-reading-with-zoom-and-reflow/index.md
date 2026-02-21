@@ -1,0 +1,76 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/improve-your-screen-reading-zoom-and-reflow
+date: '2014-09-18'
+id: da-20140918-improve-your-on-screen-reading-with-zoom-and-reflow
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: Improve your on-screen reading with Zoom and Reflow
+---
+
+Text size is even more important than a friendly font for dyslexic readers. Larger text is not simply easier on the eyes, it makes text easier and faster to process.
+
+So what, you ask? Everyone knows how to increase the font size. But that changes the document. What if you’re reading an existing document you don’t want to change? Or a PDF or a web page? This is where zoom comes in.
+
+Have you ever been in a room with someone showing a word document on the screen with tiny font and massive edges? This person doesn’t know how to zoom. Or if they do, they can’t do it quickly and comfortably enough. This post will teach you how to zoom quickly in different software. Get ready to revolutionise your on-screen reading!
+
+You can watch a summary of this post in this YouTube video
+
+Zoom basics!
+
+Look at the picture below. It should become one of the most common things you do in a day of reading on screen! Point your mouse at a document on screen. Hold down the Ctrl key and while you’re holding it scroll with your scroll wheel on your mouse. And like magic, text will get bigger or smaller.
+
+Force yourself to do it every time you open a document and after a while, it will become second nature. You will never again have to have a presentation with tiny text.
+
+What if you’re on a laptop and don’t have a mouse? No problem. Most touchpads allow for scrolling by touch. Simply hold down the Ctrl key while you do that and you get the same result.
+
+There are two methods. One where you drag the finger along the edge of the touchpad, as in picture A. And one where you drag two fingers down the touchpad, as in picture B. Different laptops will allow different methods, so try which one works for you.
+
+A. B.
+What is reflow?
+
+Sometimes when you zoom to get the text just the right size, the text will go off the side of the screen. Like in the picture below:
+
+You then have to scroll left and right to read it all which makes things worse. Enter reflow! Reflow is when the text wraps around at the edge of a screen as it gets bigger. Sometimes it’s also called line-wrap. It looks like the next picture:
+
+Reflow or line-wrap happens automatically when you enlarge the font. But not always when you zoom. That’s why when we look at how to zoom in different software, we will also look at how to reflow.
+
+Zoom and reflow in Word
+
+The Ctrl-scroll approach works like a charm in Word. When you zoom out, it will even display more pages at once. But Word also gives you more zoom choices via the View tab and Zoom button.
+
+On the Word zoom screen, you can choose the exact level of zoom to 1% or use one of many presets. My particular favourite is Text Width. Text width will set the zoom level to fit as much text as possible on the screen without having to scroll left and right.But sometimes even that is not enough zoom. Then you can zoom further and get the text to reflow. Word does not have a button that says ‘Reflow’ on it. But there are two good ways of achieving what you want.
+
+Full Screen Reading
+
+Word has a dedicated viewing mode for reading on screen called Full Screen Reading. You will find it under the View tab.
+
+Full Screen Reading allows reflow as well as other useful reading features such as displaying two pages side by side.
+
+Web Layout
+
+Or you can switch to Web Layout under the View tab.
+
+Note: The Web Layout view does not show how the document will be printed. Don’t forget to switch back to Print Layout when you’re finished reading.
+
+Note: If you don’t want to use the View tab, you can see shortcuts to the different view modes in the bottom right corner of the Word window.
+
+Zoom and reflow in a PDF
+
+Because PDFs are primarily for reading, Adobe Reader does not make you fish for basic zoom options in the menu. They’re right there in the toolbar. Also, unlike Word, it will zoom all the way to 6400%. This may not be for you but visually impaired readers may still find it useful.
+
+In a PDF, you can zoom by Ctrl-scroll but in addition you can zoom in using the keyboard shortcut Ctrl - + (plus) and zoom out with Ctrl - - (minus).
+
+Adobe Reader even have has a feature called reflow. You can activate it via the View menu as in the picture below or simply by typing Ctrl – 4.
+
+Note: There are many alternatives to Adobe Reader for reading PDFs. Some of them are faster or have more features. However, most do not include Reflow as one of the features.
+
+Zoom and reflow on a web page
+
+As I mentioned, all of the zoom basics will work in almost any text software on your computer. So Ctrl-scroll should be baked into your muscle memory. In software that is used for reading only and not writing, you should also add Ctrl-+/- into your memory bank.Probably the most common place for reading on the screen is websites. And both of these methods work perfectly on web pages. How about reflow? This depends on the page. Some pages will reflow nicely but others will simply run off the edge. Luckily, there is distraction-free reading on which we did a whole series some time ago. Go have another look. It goes nicely with a bit of zoom and reflow.Let us know how you got on with zooming and reflowing and see you next time.
+
+Note: Watch this video before you download and install any free software.

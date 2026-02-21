@@ -1,0 +1,51 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/page/about-dyslexia-0
+date: '2016-12-05'
+id: da-20161205-about-dyslexia-1-a-definition
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: 'About dyslexia : 1. A definition'
+---
+
+About dyslexia : 1. A definition
+1. A definition
+
+Dyslexia is a specific learning difficulty that primarily affects the ability to learn to read and spell. It often runs in families and stems from a difficulty in processing the sounds in words. Some 10% of the UK population are affected.
+
+A formal definition of dyslexia was recommended by Sir Jim Rose in an independent report: Identifying and Teaching Children and Young People with Dyslexia and Literacy Difficulties which was agreed by the Department for Education in 2009.
+
+The definition’s main points are:
+
+
+
+It affects the ability to learn to read and spell.
+It involves difficulties in dealing with the sounds of words, which makes it especially hard to learn to use phonics to read words.
+It can affect short-term memory and speed of recalling names.
+Other kinds of difficulties, for example with maths or with co-ordination, sometimes go alongside dyslexia, but they do not always.
+Dyslexia is not the same for everyone: 
+
+it can be mild or severe;it varies depending on other strengths, or difficulties;it varies depending on the kind of support and encouragement that is given at school, at home and at work.
+
+What are the other important things we know about dyslexia?
+
+
+
+People with dyslexia often have strengths in reasoning, in visual and creative fields; dyslexia is not related to general intelligence; and is not the result of visual difficulties.
+Dyslexia usually runs in families, but there is still much that can be done, especially if intervention is given early.
+Many people learn strategies to manage the effects of dyslexia, but it does not go away and its effects may be felt in new situations or in times of stress.
+People with dyslexia often, but do not always, show characteristics of other specific learning difficulties such as dyspraxia, attention deficit disorder or dyscalculia.
+
+References
+
+Pennington B F, (1990) The Genetics of Dyslexia, The Journal of Child Psychology and Psychiatry [Online] Volume 31, Issue 2, pages 193–201. Accessed from: http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7610.1990.tb01561.x/ab...
+
+Did you know?
+
+Dyslexia can make some things harder to learn. But, almost always, those barriers to learning can be overcome, especially with the right kind of help and support.
+
+Find out about the types of difficulties a dyslexic person may have at different ages.

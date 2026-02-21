@@ -1,0 +1,232 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/print-speech-part-1-c-pen-review
+date: '2016-04-28'
+id: da-20160428-print-to-speech-part-1-c-pen-review
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: 'Print to Speech Part 1: C-Pen Review'
+---
+
+This is a detailed review of the C-Pen Reader. This is mostly the same as the C-Pen Exam Reader. We will compare it with the earlier version C-Pen TS1.
+
+Note: I was given the C-Pen Reader to test by C-Pen’s UK distributor Scanning Pen Shop.
+
+Next week, we will compare it with scanning apps.
+
+What is the C-Pen Reader?
+
+The C-Pen Reader is a standalone scanner pen or digital highlighter that converts text from a printed page to speech. It can be held in one hand and you simply drag it over a line of text as you would a highlighter or a pen.
+
+You can plug in the included headphones or listen via the built in speaker.
+
+The scanned text can be saved into a file with digital text. This can be copied to the computer via USB and edited.
+
+Key functions
+
+
+
+Convert text on a printed page into speech
+Play speech to headphones or via built-in speaker
+Save printed text into a text file for notes
+
+Secondary functions
+
+
+
+Provide dictionary definitions for highlighted words
+Record audio notes
+Scan text directly into the computer via USB
+Play back music or podcasts
+
+It is charged via USB and connects to the PC that way, as well.
+
+Exam Pen differences
+
+C-Pen Reader is also sold as Exam Pen which is exactly the same but does not allow to save files or the use of a dictionary. This meets the JCQ requirements and means that they can be used without seeking special arrangements approval.
+
+They are also sold as bright orange to make sure they are not accidentally confused. I only tested the Reader Pen but most of the review applies.
+
+Price
+
+It is currently priced at £200 on the Scanning Pen Shop website. The price is the same both for the Exam Pen and the Reader Pen. You can also buy a pack of 10 for £1,900 (including a box).
+
+How well does the C-Pen work?
+
+In short, the C-Pen Reader works really well. Many teachers I have showed it to were sceptical because previous scanner pens were a bit hit or miss. The C-Pen is mostly hit. Let’s have a look at how it did.
+
+Test materials
+
+To test the C-Pen Reader, I used several types of documents:
+
+Printed out sample exam papers from AQA GCSE English
+Printed out KS2 SPAG test
+A random page out of Ian Smythe’s book Dyslexia in the Digital Age
+Letter from a bank
+Leaflet from the Water Company
+2 business cards
+Box of throat lozenges and the instructional leaflet
+
+Videos
+
+I recorded some videos of how well the CPen works on different documents. You can see them in this YouTube playlist.
+
+Ease of Use
+
+The C-Pen Reader is incredibly easy to use. You can start using it with 1 minute of training. There are only two things you need to know to get started:
+
+Select the Text Reader mode using the 4-way button
+Drag the pen lightly over text while holding it upright
+
+You know the pen is scanning by seeing a light from the bottom part. This light also means that you don’t have to worry about lighting conditions in the room. In fact, the C-Pen works just as well in complete darkeness.
+
+Another nice feature is that you can go fairly fast and your hand does not have to be very steady.
+
+You only have to ensure that the pen is touching the paper strongly enough to depress a light switch at the bottom while you’re scanning. But the weight of the pen is enough for that. All you have to do is keep it upright and guide it along the text.
+
+The only time, this could become a problem is when using a book which curves up and down. But even that is easily handled.
+
+The pen also had problems when I tried to hold it at an angle, more like a pen. The quality would go down until it was almost unusable.
+
+Quality of output
+
+The scanning accuracy is really amazing. I would say that it is as good as would get from any OCR software. This means that it is not 100% but it is more than good enough for regular use. Let’s see how it did with my test files:
+
+Exam papers
+
+
+
+No problems, only occasional hiccups around text in columns or in boxes.
+
+
+
+
+Book page
+
+
+
+Perfect, as long as I could keep my lines straight on a page with a lot of text.
+
+
+
+
+Letter from the bank
+
+
+
+Almost no problems, occasionally struggled with combinations of letters and numbers, e.g. reading 1st as IST.
+
+
+
+
+Leaflet
+
+
+
+Could read even text on coloured background and the small print. Could not deal with stylised and curved text.
+
+
+
+
+Business cards
+
+
+
+Decent but variable results. Struggled with stylised names of companies. Was confused by text too near lines and some small letters in addresses. In general, it would still be useful to enter the data into a database but would need correction.
+
+
+
+
+Box of lozenges and instruction leaflet
+
+
+
+It does reasonably well with text on the box except too near the edges when both ends could not be on the box. It was also thrown by the Braille indentation in some parts of the box and more or less completely failed on those parts.
+
+However, it did perfectly on the enclosed leaflet even with tiny writing. However, it completely failed on underlined text.
+
+Note: The C-Pen is not intended for handwriting and will not recognise it at all.
+
+It will do a decent job with writing in languages it does not support but may strip out accents. And it will, of course, not pronounce words from other languages correctly.
+
+Other functionality?
+
+Apart from the key functionality, the C-Pen has other features.
+
+Dictionary
+
+The C-Pen Reader comes with a built-in English dictionary. Instead of scanning a whole line, you just highlight a single word. The word is read out and you see a definition. You can also set the pen up so that the definition is also read out.
+
+C-Pen also make a Dictionary Pen which can translate between English, French, German, Italian, Russian, Spanish. I did not test this version but it seems like this would be a great tool for intermediate learners of modern foreign languages.
+
+Connecting to a computer
+
+When you connect it to the computer by micro USB (cable included), you are given three options:
+
+Keyboard: For scanning text directly into computer
+U-Disk: Copying files to and from the C-Pen
+Charging
+
+Keyboard
+
+You can simply highlight any printed text and it will appear anywhere in the computer where you can enter text. I even used it to enter a long URL on the water company leafleft, directly into my browser.
+
+I can see it being very useful for data entry into a database. It is much faster than typing and very accurate.
+
+Recording audio notes
+
+You can also record audio notes with the C-Pen Reader but the quality is just barely tolerable. You can listen to a sample I made and as you can hear, there is no noise cancellation or modulation of high volume. It will do at a pinch but any phone with an app will do a better job.
+
+Playing back music or podcasts
+
+Surprisingly, you can play back not just your recordings but also any music you copy onto the device. It does a decent job both over headphones and over the tiny speaker. I tried both some music files and a podcast and it works for both. The podcast can even skip within the file.
+
+I don’t see anybody using this as their main player (the battery life would probably be quite low) but it is there.
+
+C-Pen Reader vs C-Pen TS1
+
+I also tested the TS1. It is currently out of stock and they are expecting more in the summer.
+
+The quality of the scanning of the C-Pen TS1 is the same as the Reader Pen. You must connect it to a PC through a USB cable and install drivers that will do scanning and read out the text with text-to-speech. The TS1 only sends images of text. Here are the main differences:
+
+Requires a PC
+A bit easier to hold in the hand
+Cheaper (about half the price)
+
+I tried it on all the same documents and got about the same results.
+
+Conclusion: Who should buy?
+
+The C-Pen Reader is great. It really does what it promises and more. But it is also really expensive. For the same price, you could buy 2-3 Android tablets or 1 iPad Mini. Next week, we will have a look at how these work with the same documents.
+
+So why should you buy one?
+
+Schools
+
+I think every school should have a few of them and make sure the students use them in exams. They should probably also make them available in the school library.
+
+Unlike an app and a tablet, they require almost no maintenance, minimal training and most importantly no additional exam access arrangements. Students who use them can also sit in exactly the same exam hall as everybody else.
+
+I think a school would save money on readers and time for exam arrangements in the first year. And they can be used year after year for many students.
+
+Individuals
+
+The pen is a much more difficult proposition for individuals. A tablet with an app will be suitable for most people’s needs.
+
+However, an elderly person with failing eyesight would probably find this much easier to use than an app as long as the default was set to reader and they wouldn’t have to fiddle with the settings which would benefit from audio feedback.
+
+Another group who would greatly benefit are FE and HE students who often have to take notes from books in the library would definitely benefit. But for them, I recommend the TS1. It is much cheaper and a bit easier to handle for fine control.
+
+In fact, I wish I’d had the TS1 when I was doing library research at university.
+
+People who do a lot of data entry should also seriously consider the TS1. It could save them a lot of time and effort.
+
+Dominik Lukes - Education and Technology Specialist
+
+Next time
+
+Next week, we will do a detailed comparison of several mobile scanning apps.

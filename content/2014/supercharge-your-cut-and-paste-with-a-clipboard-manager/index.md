@@ -1,0 +1,52 @@
+---
+canonical_url: http://www.dyslexiaaction.org.uk/news/supercharge-your-cut-and-paste-clipboard-manager
+date: '2014-09-04'
+id: da-20140904-supercharge-your-cut-and-paste-with-a-clipboard-manager
+language: en
+license: Unknown
+original_format: html
+source:
+  name: Dyslexia Action Tech Blog
+  url: https://web.archive.org/web/20170613010952/http://www.dyslexiaaction.org.uk/tech-blog
+tags: []
+title: Supercharge your cut and paste with a clipboard manager
+---
+
+Why consider a clipboard manager?
+
+
+
+Have you ever lost text because you copied something over it before you could paste it?
+Have you ever spent hours switching between texts to copy little bits of text?
+Do you ever find yourself copying a link or an email address over and over again?
+Do you want to save time and mental energy when working with your computer?
+
+If you say yes, to any of these, then a clipboard manager is for you!
+
+What is a clipboard manager?
+
+Every time you copy or cut something, your computer puts it in a bit of memory called the ‘clipboard’. But the default clipboard only holds one thing and every time you copy or cut again, whatever was in the clipboard before is replaced and cannot be retrieved.A clipboard manager (or a clipboard extender) simply keeps track of all the things you’ve copied or cut and lets you return to them. It is a small piece of software you have to run that lives in your notifications tray collecting all your cuts and copies.
+
+Meet ‘Ditto’ my favourite clipboard manager
+
+Why Ditto?There are many clipboard managers both commercial and free and I’ve tried quite a few of them. But for the last two years, I’ve settled on Ditto. This is why:• It is free and open source• It has a portable version that can be run from a USB stick• It lets me search through old cuts and copies• It makes it easy to combine different cuts into one big paste• It lets me configure a convenient keyboard shortcut to choose what to paste• It keeps track of text as well as images
+
+How does Ditto work?Once you install Ditto, it puts a little blue dot icon in your notifications tray.
+
+When you want to go back to an earlier cut, simply click on the icon in the notifications tray and choose the item you want to paste.
+
+If you want to find an older item among many, you can search by typing in the search box at the bottom. Note: You can search for any part of the text.
+
+If you want to combine different items to paste as one, select them by Ctrl-Click and hit enter or Ctrl-V.
+
+If you use Ditto a lot, you can use the keyboard shortcut to bring up the Ditto window. The default is Ctrl + ' but you can change it in Options > Keyboard Shortcuts. You can get to Options if you right-click on the Ditto icon.
+
+Warning: Ditto remembers everything you copy or cut. If you copy and paste a password or bank details, remember to delete them from Ditto. To delete an item from Ditto, simply select it and hit the Del key.
+
+How to learn more about Ditto
+
+Ditto has many other nice features that you may find helpful. You can learn about them by exploring. Try right-clicking on different parts of the interface and see you functions are available.
+
+More productivity tips / questions?
+
+Let me know if you’d like more short productivity tips like this? Do you have any productivity tips to share? Do you have any questions about how to do something more productively? Let us know!
